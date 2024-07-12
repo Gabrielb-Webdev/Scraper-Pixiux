@@ -1,0 +1,1001 @@
+Company,Employees,Company Location,Industry,Company URL
+Humming Homes,10.0,"PRINCE, New York",Consumer Services,https://app.apollo.io/#/organizations/5e96095f1ac6ef008ca4f2a6
+OwnProp,2.0,"Austin, Texas",Real Estate,https://app.apollo.io/#/organizations/61bcdd1eecdb2500a4de1d4e
+Playbook Media,5.0,"New York, New York",Media Production,https://app.apollo.io/#/organizations/63f59a20a5105900017d3490
+Food N' Wine Vacations,2.0,"Atlanta, Georgia","Leisure, Travel & Tourism",https://app.apollo.io/#/organizations/54a139b169702d24d3887f00
+ReachBio Research Labs,10.0,"Seattle, Washington",Research,https://app.apollo.io/#/organizations/54a1cc3d7468695475b57711
+"Healthcare Data Analytics, Inc.",10.0,"Aspen, Colorado",Information Technology & Services,https://app.apollo.io/#/organizations/60fd27c53a485400012db8fa
+Invito Energy Partners LLC,5.0,"McKinney, Texas",Financial Services,https://app.apollo.io/#/organizations/600b0d4027a1b800caa686ee
+Swift Systems,2.0,"Sacramento, California",Information Technology & Services,https://app.apollo.io/#/organizations/6442361717884600a3e5c012
+Center for Enlightened Business,5.0,"Port Jefferson, New York",Accounting,https://app.apollo.io/#/organizations/5e57f3d47eed1100015cd3de
+BluePallet,10.0,"Austin, Texas",International Trade & Development,https://app.apollo.io/#/organizations/60a2a1416e328800d9ac81d3
+"TITANIUM Sports Nutrition, Inc.",8.0,"Frisco, Texas",Food & Beverages,https://app.apollo.io/#/organizations/6131b7b3c3cad400015c5bcd
+Rizobacter US,2.0,"Davis, California",Farming,https://app.apollo.io/#/organizations/6415eb45cb8cee00019db243
+Royal Pavement Solutions,10.0,"Islip, New York",Construction,https://app.apollo.io/#/organizations/5e56254f8c394e0001d4ea7d
+Mighty,3.0,"Mobile, Alabama",Management Consulting,https://app.apollo.io/#/organizations/556d7e9673696412083c1d01
+Organizational Performance Group,10.0,"Woodbridge, Connecticut",Management Consulting,https://app.apollo.io/#/organizations/54a1294569702d9313c59301
+EMrecruits,4.0,"Dallas, Texas",Hospital & Health Care,https://app.apollo.io/#/organizations/5569729473696425db233000
+American Wealth Strategist,5.0,"Plano, Texas",Financial Services,https://app.apollo.io/#/organizations/611733de6b77060001d9a0fc
+Prompt Video,2.0,"San Antonio, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/61ec7c1c045a3500014339b0
+1Unit,7.0,"Atlanta, Georgia",Hospital & Health Care,https://app.apollo.io/#/organizations/55f2faf5f3e5bb0c0c00acf4
+Hardcore Advertising,4.0,"Fort Lauderdale, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/5a9cf099a6da98d938b82c2e
+HealthClickAway,2.0,"Houston, Texas","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5fca5cd443f301000108060d
+Esprezzo,9.0,"Boston, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/5b8632d3f874f743a9322c5d
+Whistle — Hotel Messaging Software,3.0,"San Diego, California",Hospitality,https://app.apollo.io/#/organizations/556ce236736964124b864600
+Recover,6.0,"Lake Mary, Florida",Mental Health Care,https://app.apollo.io/#/organizations/61eb969223ae190001bc66ba
+LogMyCalls,2.0,"Saint George, Utah",Marketing & Advertising,https://app.apollo.io/#/organizations/5d0978a4a3ae619df5fe4c23
+SocialSellinator,7.0,"San Jose, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5b14811da6da98715929e50f
+HIERARCHY,10.0,"Atlanta, Georgia",Management Consulting,https://app.apollo.io/#/organizations/556d7ca4736964127ef12201
+Zest,5.0,"Baltimore, Maryland","Mechanical Or Industrial Engineering,",https://app.apollo.io/#/organizations/54a11fe369702d8aa11b0002
+Trace,8.0,"Miami, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/5e0e7d8b3df27500fcebd1ec
+Belov Digital,4.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/5e57a0bfd5bd4a00010c14b6
+Enolytics,5.0,"Atlanta, Georgia","Food & Beverages, Wine & Spirits",https://app.apollo.io/#/organizations/5a9e10b6a6da98d932e45058
+FinJS,1.0,"New York, New York",Financial Services,https://app.apollo.io/#/organizations/57c48aeba6da9815bdd4c614
+"Birch Infrastructure, PBLLC",3.0,"Bend, Oregon",Utilities,https://app.apollo.io/#/organizations/5e580b02a8de090001fb2e93
+AirLoom Energy,10.0,"Laramie, Wyoming",,https://app.apollo.io/#/organizations/6543bddcdac98f008b321d93
+jobr.pro,5.0,"Sheridan, Wyoming",Information Technology & Services,https://app.apollo.io/#/organizations/66361258425c690001a3ef62
+Aropha,5.0,"Bedford, Ohio",Environmental Services,https://app.apollo.io/#/organizations/64c1410f350bc200a3500cb2
+FinFloh,9.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/63e0f9c420020c00c2e9d635
+The Commercial Landscaper Podcast,6.0,"Greenville, South Carolina",Online Media,https://app.apollo.io/#/organizations/604994da3fc9f20001307d89
+CuratorK12,10.0,"Miami, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/5ce443786974360944bd26be
+TalentOrg,10.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/62624b5a69991400d863b752
+Chisos Capital,9.0,"Santa Monica, California",Venture Capital & Private Equity,https://app.apollo.io/#/organizations/5ed1df161963100001dad3bd
+"Reportable, Inc.",5.0,"Cohasset, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/5cfa725c622f1a0e5c26f059
+"Advancing Innovation in Dermatology, Inc.",9.0,"Mendham, New Jersey",Research,https://app.apollo.io/#/organizations/5f49c0f7fa7bf2000163c411
+BankSmart / CUSmart,10.0,"Clearwater, Florida",Financial Services,https://app.apollo.io/#/organizations/54a135a969702d352facfd00
+AutoRaptor,9.0,"Providence, Rhode Island",Information Technology & Services,https://app.apollo.io/#/organizations/54a1358a69702d46f04ca100
+EquityNet,4.0,"Salt Lake City, Utah","Venture Capital & Private Equity,",https://app.apollo.io/#/organizations/54a11d1d69702da753740601
+ApplicantLab,3.0,"Los Angeles, California","E-learning, Higher Education",https://app.apollo.io/#/organizations/5569478f736964219af02700
+Homaze.com,7.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/6049d2de5d9ef5000196998d
+PhillComm Global,5.0,"New York, New York",Public Relations & Communications,https://app.apollo.io/#/organizations/6250fbcd1c0977008d80c3d3
+DIGITAL2GO,3.0,"Irvine, California","Industrial Automation,",https://app.apollo.io/#/organizations/5fca2f9eccf70900016ad056
+Dementia Connection Institute/NeuroEssence,3.0,"Frankfort, Kentucky","Health, Wellness & Fitness,",https://app.apollo.io/#/organizations/5e562024f74c260001f12df0
+Model-Prime,10.0,"Osage Beach, Missouri",Information Technology & Services,https://app.apollo.io/#/organizations/618ed58a63850c00c2b3b2e7
+Avrok Biosciences,8.0,"Azusa, California",Research,https://app.apollo.io/#/organizations/64c4dc46e0b44a0001a6ce26
+Helio Risk,5.0,"Oklahoma City, Oklahoma",Insurance,https://app.apollo.io/#/organizations/644f86302cdc6e00013bdda9
+FitUp,7.0,"Dallas, Texas",Construction,https://app.apollo.io/#/organizations/556ce64f736964120f524f00
+Bluestream Health,5.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/5b147e66a6da9870fa3d2f17
+Energy & Finance Institute,1.0,"New York, US",Education Management,https://app.apollo.io/#/organizations/64623caa68914a00a3316f12
+Entrepreneurs Organization (EO) Wisconsin,1.0,"Mequon, Wisconsin",Civic & Social Organization,https://app.apollo.io/#/organizations/5da440d5e9922c0001a87dcf
+upcell,4.0,"Boston, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/65491b25d5c05800a339d5ee
+Uptrends.ai,5.0,"Minneapolis, Minnesota",Information Technology & Services,https://app.apollo.io/#/organizations/600ee23363a88a016eebbfd6
+Octiv Digital,8.0,"Salt Lake City, Utah",Marketing & Advertising,https://app.apollo.io/#/organizations/5e5669cd2174ca00015629e5
+Advanced Business Communications,5.0,"New York, New York",Telecommunications,https://app.apollo.io/#/organizations/6049ac00f32c830001dff164
+Wildwood Ventures,9.0,"Denver, Colorado",Venture Capital & Private Equity,https://app.apollo.io/#/organizations/646519acb5e37400ce81bd91
+Sandglass Hotels & Villas Collection,5.0,"Holmdel, New Jersey","Hospitality, Leisure, Travel & Tourism",https://app.apollo.io/#/organizations/650a7557b0f29b0001193de1
+Doorsey,2.0,"San Francisco, California",Real Estate,https://app.apollo.io/#/organizations/60b9cd0a7e44ed00d918a639
+HUGE Business & Investment Council (ThinkHUGE),3.0,"Washington, District of Columbia",Nonprofit Organization Management,https://app.apollo.io/#/organizations/640384dfb314450001ee07cb
+STEM From,2.0,"Seattle, Washington",Education Management,https://app.apollo.io/#/organizations/650abae2ecb568000108edcf
+Arnold Sports Festival UK,2.0,"Signal Hill, California",Sports,https://app.apollo.io/#/organizations/642bc73c5880ac00a38e0a50
+Freight Brokers Course,3.0,"Los Angeles, California",,https://app.apollo.io/#/organizations/5a9d46d6a6da98d93bdeca12
+Crustdata,1.0,"San Francisco, California","Information Technology & Services,",https://app.apollo.io/#/organizations/61618eb8ee53070001bc80cb
+Adept.io,5.0,"Charlotte, North Carolina",Staffing & Recruiting,https://app.apollo.io/#/organizations/6241ff002c4c4f00dc79b053
+C42D,5.0,"New York, New York","Graphic Design, Design",https://app.apollo.io/#/organizations/54a11fc269702da10f031102
+Manta Biofuel,10.0,"Owings Mills, Maryland",Oil & Energy,https://app.apollo.io/#/organizations/55ea4f93f3e5bb5976000722
+Nango (YC W23),6.0,"Wilmington, Delaware",Information Technology & Services,https://app.apollo.io/#/organizations/62da85f0d3adf500dfbbbb9e
+aiTech Trend,3.0,"New York, New York",Online Media,https://app.apollo.io/#/organizations/5fa17340d96487008caa3c49
+Event Staff App,6.0,"Goleta, California","Information Technology & Services,",https://app.apollo.io/#/organizations/54a11cba69702d97c144d000
+Freeform Marketing Solutions,3.0,"San Diego, California",Printing,https://app.apollo.io/#/organizations/5d0a8ef0a3ae613353686111
+Blue Forest Farms,4.0,"Erie, Colorado","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5ce8446c397b91098ac81d8a
+HeyFlow,4.0,"San Francisco, California",Management Consulting,https://app.apollo.io/#/organizations/644143f2fa0226008b8376ad
+Yoga Design Lab,10.0,"Buffalo Grove, Illinois",Sporting Goods,https://app.apollo.io/#/organizations/5d1c8d265da7d90a3e081baa
+IRMCA - Indiana Ready Mixed Concrete Association,3.0,"Sheridan, Indiana",Construction,https://app.apollo.io/#/organizations/54a11c1f69702d8ed4287f00
+"MOBILE SHRED IT, LLC",2.0,"Coppell, Texas",Facilities Services,https://app.apollo.io/#/organizations/5f4977dc7eaefa00018b48fe
+bioStrategies Group,7.0,"Chicago, Illinois","Management Consulting,",https://app.apollo.io/#/organizations/55e155e6f3e5bb16c7002573
+CarpeDM,6.0,"Washington, District of Columbia",Internet,https://app.apollo.io/#/organizations/5da2ff8c3154c6000163e704
+"Inphlu, Inc.",6.0,"Cincinnati, Ohio",Marketing & Advertising,https://app.apollo.io/#/organizations/5e57e7e3b906a400018646cc
+Kloudio (Acquired by Alation),6.0,"San Jose, California","Information Technology & Services,",https://app.apollo.io/#/organizations/556d408573696411dea2c100
+TurnOnGreen Inc.,9.0,"Milpitas, California",Oil & Energy,https://app.apollo.io/#/organizations/6080a34d3972f7011ad303b0
+Materialize Labs,10.0,"Santa Monica, California","Information Technology & Services,",https://app.apollo.io/#/organizations/5e172b60eba103008cfc650b
+BOSS AI | A Blattner Tech Company,10.0,"Nashville, Tennessee",Information Technology & Services,https://app.apollo.io/#/organizations/5b874dae324d4453d32c48a1
+Guardiant Health,8.0,"Moorpark, California","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5e56da16a567a50001919100
+Lab651 | Custom Software Development & Process,10.0,"Saint Paul, Minnesota","Information Technology & Services,",https://app.apollo.io/#/organizations/5d3487e2a3ae6177a01e465d
+Milu Health,9.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/6415f709122af9011e05c613
+Bocancorp,3.0,"Ashburn, Virginia",Information Technology & Services,https://app.apollo.io/#/organizations/646814da23db8b00d0c53404
+iTakeControl | Red Nucleus,4.0,"Boston, Massachusetts",Research,https://app.apollo.io/#/organizations/64d40026d4a3730001418554
+Valorian Solutions,8.0,"Houston, Texas",Management Consulting,https://app.apollo.io/#/organizations/6311a157e60ea700e120c235
+TrialSite News,7.0,"Salt Lake City, Utah",Publishing,https://app.apollo.io/#/organizations/5da3b7638f77a300019260ea
+Target Stream Media,6.0,"Wake Forest, North Carolina",Media Production,https://app.apollo.io/#/organizations/54a12a3069702dc128d4bd01
+Merlin Search Technologies,10.0,"Denver, Colorado","Information Technology & Services,",https://app.apollo.io/#/organizations/5fcb64bc4655000001fc007f
+Entreda,7.0,"Redwood City, California","Information Technology & Services,",https://app.apollo.io/#/organizations/54a12ab169702d8b19b9b902
+GeneXus USA,2.0,"Miami, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/5d0a5618a3ae615d2ef4079f
+ComplySAM,3.0,"Chicago, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/65035fbf16ada1008b4bfec5
+Jump Start Journey,5.0,"Austin, Texas",Management Consulting,https://app.apollo.io/#/organizations/61ec9cb2efed5b0001019b63
+Win Authority,2.0,"Sheridan, Wyoming",Information Technology & Services,https://app.apollo.io/#/organizations/5db454de7a11a80001693600
+Built By Love,3.0,"San Diego, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5b15f1d6a6da98693aa8e9f2
+"TAP Financial Partners, Ltd.",6.0,"Aventura, Florida",Financial Services,https://app.apollo.io/#/organizations/5ec82073484d20008cc1b913
+InjureFree,9.0,"San Diego, California",Information Technology & Services,https://app.apollo.io/#/organizations/5fcabc22427f6b000114d78b
+Yotta 2024,10.0,"New York, New York",Events Services,https://app.apollo.io/#/organizations/64c4c3810b2e26000198c184
+ThinManager,3.0,"Alpharetta, Georgia",Machinery,https://app.apollo.io/#/organizations/54a1212a69702d9a8b6ad902
+Keydabra,5.0,"Atlanta, Georgia","Information Technology & Services,",https://app.apollo.io/#/organizations/5e561e2b020520000117d977
+Denver Basic Income Project,7.0,"Denver, Colorado",Civic & Social Organization,https://app.apollo.io/#/organizations/65f93a9555f99a0007145319
+Touchpoint K12,8.0,"Phoenixville, Pennsylvania",Information Technology & Services,https://app.apollo.io/#/organizations/5e570172fb3dbd0001b19f42
+"Spire Technologies, Inc.",8.0,"Portland, Oregon","Information Technology & Services,",https://app.apollo.io/#/organizations/54a11f7c69702d9a8b8cef01
+"Infinity Worlds, LLC",9.0,"Rogers, Arkansas",Consumer Services,https://app.apollo.io/#/organizations/5a9d96c9a6da98d94d8d6ba6
+Philotimo-HR,1.0,"Saint Petersburg, Florida",Management Consulting,https://app.apollo.io/#/organizations/64720d937a44910001c4108c
+Biocybernaut Institute,8.0,"Sedona, Arizona",Think Tanks,https://app.apollo.io/#/organizations/55f2fe08f3e5bb0bbf00b00f
+Keet Health,6.0,"Austin, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/55f7b58cf3e5bb7314002545
+Oceanbolt,1.0,"Boston, Massachusetts",Information Services,https://app.apollo.io/#/organizations/5e57a2868d755a0001a5fc45
+MADE Brands,6.0,"Lakeland, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/5b835680324d446bf0fc71d0
+Monaeo,2.0,"New York, New York","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1356069702d4494719000
+Vinnove,7.0,"San Antonio, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/5c87c67f9e2cd0092b2f3b24
+Atomus Partners,9.0,"Dallas, Texas",Management Consulting,https://app.apollo.io/#/organizations/6391f99976a22e00a3c1a6b1
+LandLeader,6.0,"Medford, Oregon",Marketing & Advertising,https://app.apollo.io/#/organizations/5569953773696425e24b6000
+Jeff Selingo,2.0,"Washington, District of Columbia",Higher Education,https://app.apollo.io/#/organizations/63bb36b38595920001d53f19
+One Mind at Work,6.0,"Rutherford, California",Nonprofit Organization Management,https://app.apollo.io/#/organizations/650abc7ffb10f800019588fb
+Geberit USA,3.0,"Des Plaines, Illinois",Building Materials,https://app.apollo.io/#/organizations/5da48e841dd46b0001c1d113
+"myGini, Inc.",8.0,"Palo Alto, California","Information Services, Internet",https://app.apollo.io/#/organizations/5b14a546a6da9870ecec13e0
+King Crow Studios,9.0,"Baton Rouge, Louisiana","Information Technology & Services,",https://app.apollo.io/#/organizations/5b15f205a6da9869256b921f
+Orgspace (defunct),2.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/60c3b303d9e32c00f59b5d09
+Make The Impact,6.0,"Wooster, Ohio",Financial Services,https://app.apollo.io/#/organizations/61ec4dae2875470001de22fc
+Main Street Summit,3.0,"Columbia, Missouri",Events Services,https://app.apollo.io/#/organizations/6473c897ebc6b100011cf3e6
+"Ignite Creative Services, LLC.",9.0,"Scottsdale, Arizona",Marketing & Advertising,https://app.apollo.io/#/organizations/54a1293369702db878eb4e01
+Enrichment Systems Inc.,8.0,"Boulder, Colorado",Farming,https://app.apollo.io/#/organizations/6129a9acdd61000001615021
+Airstart,8.0,"Wilmington, Delaware",E-learning,https://app.apollo.io/#/organizations/61ec50a9c0aba9000197fba4
+Chiron Health - A Medici Company,6.0,"Austin, Texas","Hospital & Health Care,",https://app.apollo.io/#/organizations/54a11fd169702d84c586fa01
+"Fire Up & Lead, LLC",2.0,"Chippewa Falls, Wisconsin",Management Consulting,https://app.apollo.io/#/organizations/5b13da69a6da98dcd4baddad
+National Reined Cow Horse Association,7.0,"Pilot Point, Texas",Nonprofit Organization Management,https://app.apollo.io/#/organizations/63ff04db02df110001586113
+Synergies Work,5.0,"Atlanta, Georgia",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5f48d47a6ea2bf0001a9d35e
+Ednium: The Alumni Collective,9.0,"Denver, Colorado",Education Management,https://app.apollo.io/#/organizations/63c28b30cb7dc00001b690f0
+RevolutionCyber,5.0,"Columbus, Ohio",Computer & Network Security,https://app.apollo.io/#/organizations/5f4a338390667d000163120a
+Global Validity Corporation,10.0,"Raleigh, North Carolina",Wireless,https://app.apollo.io/#/organizations/5e568168524b29000100da6c
+InVine,2.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/55695188736964255dfe0400
+WCG Metrics Champion Consortium,3.0,"Falls Church, Virginia",Pharmaceuticals,https://app.apollo.io/#/organizations/556d9495736964126cb24a01
+Curio NFT,3.0,"Los Angeles, California",Online Media,https://app.apollo.io/#/organizations/60891d6089593c00a442d3f9
+LightSpeed Automation,10.0,"Duluth, Georgia",Information Technology & Services,https://app.apollo.io/#/organizations/55f8ad0bf3e5bb1931000750
+Texas Hemp Growers Association,6.0,"Lubbock, Texas",Nonprofit Organization Management,https://app.apollo.io/#/organizations/60488fb4d1c4890001257437
+Agency 102,8.0,"Baltimore, Maryland",Marketing & Advertising,https://app.apollo.io/#/organizations/612a41dc195d3d00016be5c6
+Medical Interactive Community,9.0,"Metairie, Louisiana",Hospital & Health Care,https://app.apollo.io/#/organizations/54a13a5169702d2851aadf00
+Georgia/Carolinas PCI - A Chapter of the Precast/Prestressed Concrete Institute,3.0,"Marietta, Georgia",Construction,https://app.apollo.io/#/organizations/5e56d9382519b10001c9016c
+Grad Concept USA,2.0,"Houston, Texas","Building Materials, Construction",https://app.apollo.io/#/organizations/60aebaffdbe1560001e60783
+Remarkety,7.0,"New York, New York",Marketing & Advertising,https://app.apollo.io/#/organizations/54a1ac6174686954759f9b06
+BLDG25,7.0,"Raleigh, North Carolina",Information Technology & Services,https://app.apollo.io/#/organizations/54a129ea69702d9ebc19b901
+Talent Sonar,5.0,"San Diego, California",Staffing & Recruiting,https://app.apollo.io/#/organizations/5d0973e380f93ed9257d3605
+PolicyCo,9.0,"Nashville, Tennessee",Information Technology & Services,https://app.apollo.io/#/organizations/5e57af6ceedbc7000185b0fe
+CoMetrics,8.0,"Boston, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/556995df73696425295d6100
+Devetry (now DEPT®),6.0,"Denver, Colorado",Information Technology & Services,https://app.apollo.io/#/organizations/5f49bb54864d55000172f4c4
+ootbox,8.0,"Columbus, Ohio",Construction,https://app.apollo.io/#/organizations/5e56410534b50a000195a7d6
+Lead Nectar,3.0,"New York, New York",Management Consulting,https://app.apollo.io/#/organizations/5fa97d110d445200bea638f4
+Handraise,10.0,"Austin, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/61ec6932a55f9900013de917
+CollabPoint,8.0,"Bar Harbor, Maine",Information Technology & Services,https://app.apollo.io/#/organizations/5f4ad7e1d387090001dc5609
+KYNAH,10.0,"Santa Monica, California",Retail,https://app.apollo.io/#/organizations/5b14b5d7a6da9870ecec60aa
+Storyboard Media,4.0,"Durham, North Carolina",Marketing & Advertising,https://app.apollo.io/#/organizations/556d3b9b7369641284d8b900
+MindSet,9.0,"Bellevue, Nebraska",Management Consulting,https://app.apollo.io/#/organizations/54a11bb169702da753b36200
+Cornish Hernandez Gonzalez,8.0,"Coral Gables, Florida",Law Practice,https://app.apollo.io/#/organizations/5b159f59a6da9870ecf0a517
+Pesto,10.0,"Sacramento, California",,https://app.apollo.io/#/organizations/602c0a56cd07d800e2a19bd3
+Waukee Area Chamber of Commerce,5.0,"Waukee, Iowa",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5da34151fb244f000180971a
+Graceful Management Systems,3.0,"Madison, Wisconsin","Information Technology & Services,",https://app.apollo.io/#/organizations/637de81f8e97aa00d35673cd
+HumanPoint,8.0,"Bellevue, Washington",Professional Training & Coaching,https://app.apollo.io/#/organizations/54a1268d69702d8cfc2e3000
+Captivate Bio,4.0,"Watertown, Massachusetts",Research,https://app.apollo.io/#/organizations/5f85411766f407008c701d26
+Theory and Principle,9.0,"Portland, Maine",Information Technology & Services,https://app.apollo.io/#/organizations/5c22aa8680f93ef9adb5b116
+Linton Group,9.0,"Bala Cynwyd, Pennsylvania",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/623fc290052da9000105e9e6
+Blue Ribbon Fastener,9.0,"Skokie, Illinois",,https://app.apollo.io/#/organizations/54a1a2f3746869586031cd03
+SATISFYD,3.0,"Austin, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/54a1b4e77468694012aada09
+Squaregles,7.0,"Chicago, Illinois",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/60410d9076296f00a43d06e5
+JaxAngels,8.0,"Jacksonville, Florida","Capital Markets, Venture Capital & Private Equity",https://app.apollo.io/#/organizations/5f4a29629daa4e000182ccbb
+Dream Job Catcher,5.0,"Seattle, Washington",Professional Training & Coaching,https://app.apollo.io/#/organizations/5da6ff66bddb8300014bbdbc
+FCB West,4.0,"San Francisco, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5b15e63ca6da98692c01f091
+Outlier Automation,5.0,"Fresno, California","Machinery, Mechanical Or Industrial Engineering",https://app.apollo.io/#/organizations/5e55d6e10b42890001878ee0
+IdeaCloud,5.0,"Salt Lake City, Utah",Information Technology & Services,https://app.apollo.io/#/organizations/60497611f0464300015607e2
+Rock Enrollment,8.0,"Birmingham, Alabama",Human Resources,https://app.apollo.io/#/organizations/63f2391891860d00f3bf8e96
+"Cairn, Inc.",3.0,"Bend, Oregon",,https://app.apollo.io/#/organizations/5569671f73696425b80e2100
+Evolve Senior Living,2.0,"Chicago, Illinois",Hospitality,https://app.apollo.io/#/organizations/6509d77014ca7000d03ba9ff
+DemandCapture,10.0,"New York, New York",,https://app.apollo.io/#/organizations/634f83ed62c73500a35e9714
+Maclocks.com,4.0,"Conyers, Georgia",Retail,https://app.apollo.io/#/organizations/54a138f869702d2bfd351f00
+Fifth Avenue Hearing,1.0,"New York, New York",Medical Practice,https://app.apollo.io/#/organizations/64568483586cb30001c3a53c
+Radical Health,4.0,"New York, New York","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5e54bc568d2b3800e282de80
+Frame,10.0,"Santa Monica, California",Mental Health Care,https://app.apollo.io/#/organizations/5ed1833129be1c000149f44a
+Insulation Institute,6.0,"Alexandria, Virginia",Building Materials,https://app.apollo.io/#/organizations/54a1a20374686940120c7603
+Grypp.io,10.0,"Orlando, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/5a9d7cbca6da98d93565782b
+Aginto - A Digital Agency,6.0,"Sarasota, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/54a19e6774686945fa466402
+"Otava, Inc",7.0,"Moorestown, New Jersey",Semiconductors,https://app.apollo.io/#/organizations/5bfffac4b1fb100a92c46850
+Tibot & Associates,1.0,"Los Angeles, California",Management Consulting,https://app.apollo.io/#/organizations/5ed3754b8afea800018de4fc
+US ESTIMATION,9.0,"New York, New York",Construction,https://app.apollo.io/#/organizations/5e59ca8f6391dd0001000289
+Scorecard Sales,3.0,"York, Pennsylvania",Management Consulting,https://app.apollo.io/#/organizations/5ed751c5fa64a00001863df7
+Alfa Laval Tank Cleaning,8.0,"Exton, Pennsylvania",Machinery,https://app.apollo.io/#/organizations/54a1ba587468695475628f0b
+inBuild,10.0,"Wilmington, Delaware",Information Technology & Services,https://app.apollo.io/#/organizations/617c02418524b500daf808f7
+AIQUEOUS,9.0,"Austin, Texas",Utilities,https://app.apollo.io/#/organizations/556975a47369642579613300
+International Citizen Diplomacy of Los Angeles (ICDLA),10.0,"Los Angeles, California",International Affairs,https://app.apollo.io/#/organizations/6419596ba27c280001f86207
+Adriana Gallardo,1.0,"Irvine, California",Professional Training & Coaching,https://app.apollo.io/#/organizations/64965e7cb086bb0001bcec83
+Midwest Billboards,6.0,"Wichita, Kansas",Media Production,https://app.apollo.io/#/organizations/5b84fefef874f749536c5d3d
+Genie,9.0,"Dover, Delaware",Information Technology & Services,https://app.apollo.io/#/organizations/61c32a30dc1ac9008cf87d7c
+Nengu Tech,4.0,"Irving, Texas",Staffing & Recruiting,https://app.apollo.io/#/organizations/60efbe5c0f72d700da3de9f8
+LSM Las Vegas,7.0,"Las Vegas, Nevada",Marketing & Advertising,https://app.apollo.io/#/organizations/54a134c669702d36c9247400
+Driveway,4.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/5f9a9257d9cb1100be80bbf1
+Solomon Friedman Advertising,7.0,"Bloomfield Hills, Michigan",Marketing & Advertising,https://app.apollo.io/#/organizations/54a1b2aa74686942d3001f09
+EB Arrow,10.0,"Dallas, Texas",Real Estate,https://app.apollo.io/#/organizations/5b8308e0f874f704583f8c34
+DataBiologics,10.0,"Gilbert, Arizona",Hospital & Health Care,https://app.apollo.io/#/organizations/5da69302e0c772000180aa61
+Second Time Founders,7.0,"San Francisco, California",Professional Training & Coaching,https://app.apollo.io/#/organizations/5d35420fa3ae61115526e682
+Change the Air Foundation,4.0,"Freehold Township, New Jersey","Nonprofit Organization Management,",https://app.apollo.io/#/organizations/6460647cf49d0e000166bde4
+29Bison l A SolomonEdwards Company,3.0,"Blue Bell, Pennsylvania",Management Consulting,https://app.apollo.io/#/organizations/5e575b0d0c206a0001929583
+StarRocks,2.0,"San Francisco, California",,https://app.apollo.io/#/organizations/650ac463f635990001f00e90
+Rainmaker by Matt Clark & Wesley Longueira,1.0,"Charlotte, North Carolina",E-learning,https://app.apollo.io/#/organizations/5ed7cc73e90d040001969e32
+Telemetry,6.0,"San Francisco, California","Information Technology & Services,",https://app.apollo.io/#/organizations/60f67b74040dfe00daba29a3
+Wellness Of Joy,10.0,"San Diego, California","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5fc80e3dc8330a0001cb4e54
+Cyphlens,5.0,"New York, New York",,https://app.apollo.io/#/organizations/60b2624137550f0001974598
+"Working with Hope, Inc",5.0,"The Woodlands, Texas",Nonprofit Organization Management,https://app.apollo.io/#/organizations/61ec14c8dbf53a000180add0
+All Clear Foundation - Supporting Emergency Responders,3.0,"Denver, Colorado",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5e56890f2174ca000156edc4
+Medicus IT Newark,10.0,"Rutherford, New Jersey",Information Technology & Services,https://app.apollo.io/#/organizations/55696b7973696425985e2500
+Liquid Ice Energy Drink,7.0,"Lake Success, New York",Food & Beverages,https://app.apollo.io/#/organizations/5500b8e773696416b40a1100
+Teach to One,3.0,"Jersey City, New Jersey",Government Administration,https://app.apollo.io/#/organizations/5e5628425d0aa60001d24433
+Twintusk LLC,7.0,"Woodbury, Minnesota",Marketing & Advertising,https://app.apollo.io/#/organizations/623fc5dfe72561000125d3ab
+Deliberate AI,8.0,"New York, New York",Mental Health Care,https://app.apollo.io/#/organizations/5e5700eedf9f390001838d4e
+The Callen Group,10.0,"Houston, Texas",Oil & Energy,https://app.apollo.io/#/organizations/5a9d4e8aa6da98d94d8b7851
+Pratt Power Partners,1.0,"Houston, Texas",Oil & Energy,https://app.apollo.io/#/organizations/61ec2f29a6bbc900019df93e
+Variance,3.0,"Oaklyn, New Jersey",Information Technology & Services,https://app.apollo.io/#/organizations/5d5abb8ab4974700da654ce3
+"Canopy Innovations, Inc.",6.0,"New York, New York","Hospital & Health Care,",https://app.apollo.io/#/organizations/54a122a469702d84c5e93003
+IFSC,7.0,"Libertyville, Illinois",Financial Services,https://app.apollo.io/#/organizations/55f0fca3f3e5bb4ffd000358
+Lumedic,4.0,"Seattle, Washington","Hospital & Health Care,",https://app.apollo.io/#/organizations/5d2ecdb3b73e1409c10838a5
+The Bauke Group,6.0,"Cincinnati, Ohio",Professional Training & Coaching,https://app.apollo.io/#/organizations/54a11ce969702d84c567d000
+Reflex Brands | Pittsburgh Website Design and Digital Marketing Agency,4.0,"Export, Pennsylvania",Media Production,https://app.apollo.io/#/organizations/5569a33e73696425213e6e00
+"Activelogix, LLC",8.0,"Charlotte, North Carolina",Information Technology & Services,https://app.apollo.io/#/organizations/54a1a2117468695860de8e03
+ToolDirectory.AI,2.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/64d74d6b6fbe5900bacf8d25
+"Sika USA, Inc.",7.0,"Mount Pleasant, Wisconsin",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/5da365300f892d00019d5655
+Micropack Detection (Americas) Inc.,10.0,"Houston, Texas",Oil & Energy,https://app.apollo.io/#/organizations/5ed1a16f5ce10e00018de825
+Triple G Ventures,7.0,"Framingham, Massachusetts",Management Consulting,https://app.apollo.io/#/organizations/5fcb00c72863e30001f9c294
+Tonbo™ A Cytek® Brand,7.0,"San Diego, California",Research,https://app.apollo.io/#/organizations/54a13bed69702d2bfdffab01
+Booth AI,9.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/62d169e54f190e010d4c3410
+"Our Ability, Inc.",6.0,"Albany, New York",Information Technology & Services,https://app.apollo.io/#/organizations/5569428373696421b3841e00
+Valid Network,5.0,"New York, New York","Computer & Network Security,",https://app.apollo.io/#/organizations/5c1eaf9080f93ebd9e691d4f
+"WCM, Waste & Compliance Management, Inc.",7.0,"Carlsbad, California","Medical Devices, Pharmaceuticals",https://app.apollo.io/#/organizations/5db13e83bbae560001fb387a
+Stone Legal Recruiting LLC,4.0,"Boston, Massachusetts",Legal Services,https://app.apollo.io/#/organizations/5fc98783691fef0001342bd7
+1st In Emergency Products,4.0,"Wanaque, New Jersey",Automotive,https://app.apollo.io/#/organizations/5da6b00c1220f30001578655
+Plentiful Wealth Perspectives,1.0,"Louisville, Kentucky","Financial Services, Investment Management",https://app.apollo.io/#/organizations/61eba005f6d65f00017a300b
+Jasmine Energy,10.0,"Washington, District of Columbia",,https://app.apollo.io/#/organizations/62e7898c6cfe4b00a3d076c2
+Social Network MD,7.0,"Marietta, Georgia",Marketing & Advertising,https://app.apollo.io/#/organizations/54a1272069702d979c9e5500
+The Defensive Line,9.0,"Columbus, Ohio",Mental Health Care,https://app.apollo.io/#/organizations/6125b88b63934c000131296b
+Life at Sea Cruises,5.0,"Fort Lauderdale, Florida","Leisure, Travel & Tourism",https://app.apollo.io/#/organizations/63f2f79c9cf60a00012fa9c5
+Surrealty Locating,2.0,"Frisco, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/612856b69492360001d2b429
+Office Designs,8.0,"Northbrook, Illinois","Furniture, Business Supplies & Equipment",https://app.apollo.io/#/organizations/54a1b5b37468694f8f032c0a
+3DIQ,7.0,"Knoxville, Tennessee",Information Technology & Services,https://app.apollo.io/#/organizations/5da50987552fec00014d7d25
+DifferentKind,7.0,"Buena Vista, Colorado",Hospital & Health Care,https://app.apollo.io/#/organizations/60f9105b70faf800a47f1460
+"Ocean-Based Climate Solutions, Inc.",3.0,"Santa Fe, New Mexico",Environmental Services,https://app.apollo.io/#/organizations/5da351b1c270110001cb6c87
+Supercritical,8.0,"Chicago, Illinois",Management Consulting,https://app.apollo.io/#/organizations/5e57a72a05426d0001a2376b
+Houston Business Coalition on Health (HBCH),8.0,"Houston, Texas",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5ed34aa1ce6605000147ed16
+SwellChat,10.0,"Mount Pleasant, South Carolina",Information Technology & Services,https://app.apollo.io/#/organizations/615e6bddc2b19300014afe88
+VezTek USA,9.0,"Los Angeles, California",Information Technology & Services,https://app.apollo.io/#/organizations/5d0a78d180f93e7c01c035dc
+developUs Worldwide,7.0,"Charlotte, North Carolina",Professional Training & Coaching,https://app.apollo.io/#/organizations/556da17073696411ec9e5001
+Visitu,8.0,"North Bend, Ohio","Information Technology & Services,",https://app.apollo.io/#/organizations/556d84a97369641202663c01
+Startup Course,1.0,"Menlo Park, California","Venture Capital & Private Equity,",https://app.apollo.io/#/organizations/654fa7f043b82e000145902a
+RAM Supply Chain Incorporated,4.0,"Irvine, California",Management Consulting,https://app.apollo.io/#/organizations/613433c6163195000143b09e
+CloudForge,6.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/641e1208d6dab900d9503cde
+"Employee Benefit Consultants, Inc.",6.0,"Richlands, Virginia",Insurance,https://app.apollo.io/#/organizations/57c4db83a6da986a77cd152f
+WorkHub Innovations,1.0,"Wichita, Kansas",Human Resources,https://app.apollo.io/#/organizations/6411db235b376100a39e0081
+"Lipresti Law, P.C.",5.0,"Boston, Massachusetts",Law Practice,https://app.apollo.io/#/organizations/63b79eee99ef620001ab2abd
+MedCoShare,10.0,"Philadelphia, Pennsylvania",Hospital & Health Care,https://app.apollo.io/#/organizations/5ed23fb6c20ccc00015e0ac1
+PDMA Pittsburgh Chapter,6.0,"Pittsburgh, Pennsylvania",Professional Training & Coaching,https://app.apollo.io/#/organizations/5da573fed9130f00019d8166
+liquidfish,10.0,"Oklahoma City, Oklahoma",Marketing & Advertising,https://app.apollo.io/#/organizations/5569961b73696425550c6100
+The Hub Ops,4.0,"Cincinnati, Ohio","Information Technology & Services,",https://app.apollo.io/#/organizations/6473cec9ebc6b100011d0678
+Merco Products,2.0,"Shreveport, Louisiana",Machinery,https://app.apollo.io/#/organizations/635acd10fc833200a3784db1
+Derapi,10.0,"San Carlos, California",Information Technology & Services,https://app.apollo.io/#/organizations/631a2f4a55ca1800a3a43959
+Peak Blockchain,2.0,"Saint Petersburg, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/62b53c4b09c1ec000148eed6
+Revolution Rental Management,5.0,"Senoia, Georgia",Real Estate,https://app.apollo.io/#/organizations/6140d874c2d72500da828f89
+NimbleEdge,6.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/61d2f6728c3dc900a4e3d780
+Sponge.io – Marketing & Revenue Ops Agency,10.0,"Alexandria, Virginia",Marketing & Advertising,https://app.apollo.io/#/organizations/54a11ef369702d9a8b61b301
+Farmblox,8.0,"Worcester, Massachusetts","Agriculture, Farming",https://app.apollo.io/#/organizations/5ed3a90d22b180009874bc0d
+OpenTravel Alliance,4.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/5f7872996ef2b0008cdf85f3
+"Moses B Glick, LLC",10.0,"Fleetwood, Pennsylvania",Wholesale,https://app.apollo.io/#/organizations/5500b92873696460f43b1200
+Denver Business Coach,9.0,"Lakewood, Colorado",Professional Training & Coaching,https://app.apollo.io/#/organizations/55e8ae77f3e5bb028600024e
+Beeleads,3.0,"Wilmington, Delaware",Information Technology & Services,https://app.apollo.io/#/organizations/62e7dbfc17202100f4ea7d92
+Startempire Wire,3.0,"Corona, California",Online Media,https://app.apollo.io/#/organizations/5ed0cca92803e90001889ca3
+Lone Fir Creative,4.0,"Seattle, Washington",Marketing & Advertising,https://app.apollo.io/#/organizations/57c4c9c2a6da9836fa1a85db
+Vityl,5.0,"Washington, District of Columbia",Information Technology & Services,https://app.apollo.io/#/organizations/61cb17e7dcf1b200de9ded0b
+BB Merchant Services - USA,7.0,"Boston, Massachusetts","Financial Services, Banking",https://app.apollo.io/#/organizations/629677fd1f11b9008dd9d0f7
+Hire Ground - Diverse Supplier Sourcing & Management Solutions,2.0,"Atlanta, Georgia",Management Consulting,https://app.apollo.io/#/organizations/5cfeb2b4ce12cb09428be9f9
+Bluesoft Design,2.0,"South Plainfield, New Jersey",Marketing & Advertising,https://app.apollo.io/#/organizations/5c2f82f73a538309fc3f29d9
+Zipie,3.0,"Lexington, Kentucky",Marketing & Advertising,https://app.apollo.io/#/organizations/556d826f7369641243413201
+Idyll Collective,3.0,"Charlotte, North Carolina",Writing & Editing,https://app.apollo.io/#/organizations/61dc6681aa30b5014abd0d13
+Budgie Health,9.0,"New York, New York","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/621cfca30fe7050119111fd1
+The Future Forward Inc.,6.0,"New York, New York","Design, Graphic Design",https://app.apollo.io/#/organizations/55699e427369642529066900
+Branch Out Glamping,7.0,"Denver, Colorado",Hospitality,https://app.apollo.io/#/organizations/63d8a08fe4173b00a378f312
+P2Binvestor,2.0,"Denver, Colorado",Financial Services,https://app.apollo.io/#/organizations/54a11f4e69702d8ed4c7c901
+Luminous,10.0,"Boston, Massachusetts","Management Consulting,",https://app.apollo.io/#/organizations/5a9db1d3a6da98d9a15a933e
+Imperson,6.0,"Culver City, California","Information Technology & Services,",https://app.apollo.io/#/organizations/5569e2ae73696425292bae00
+Pots Planters & More,3.0,"Skokie, Illinois",Wholesale,https://app.apollo.io/#/organizations/57c50489a6da986a27505aab
+Jewish Arts Collaborative,7.0,"Newton, Massachusetts",Entertainment,https://app.apollo.io/#/organizations/5b8063d8f874f728186da286
+"Martin, now part of PubMatic",6.0,"Cincinnati, Ohio",Marketing & Advertising,https://app.apollo.io/#/organizations/5b8428a6f874f72bf0130350
+Tingono,10.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/615fabfb6e7df700f6897bb3
+TDR Pipe,10.0,"Houston, Texas",Building Materials,https://app.apollo.io/#/organizations/5b8426c6324d444a53aec661
+ArborNote,8.0,"Irvine, California","Information Technology & Services,",https://app.apollo.io/#/organizations/5f49a707864d5500017273a2
+Cascade.io,10.0,"San Francisco, California",,https://app.apollo.io/#/organizations/5fca2b243b6f3c0001978c8f
+Phosphorex,4.0,"Hopkinton, Massachusetts","Nanotechnology, Research",https://app.apollo.io/#/organizations/54a223aa7468693825fc4e10
+ExpressPlay by Intertrust,1.0,"Berkeley, California",Information Technology & Services,https://app.apollo.io/#/organizations/559240717369641b33fdba00
+Spirence,7.0,"Philadelphia, Pennsylvania","Mental Health Care, Health, Wellness & Fitness",https://app.apollo.io/#/organizations/64057587340077000199a102
+Araali Networks,6.0,"Fremont, California",Computer & Network Security,https://app.apollo.io/#/organizations/5da14b029e29b10001db55e1
+Delta Infotek,6.0,"San Diego, California",Information Technology & Services,https://app.apollo.io/#/organizations/6311fd3729077000cca67e2f
+Grade.us,5.0,"Bellevue, Washington","Information Technology & Services,",https://app.apollo.io/#/organizations/56d6d35ef3e5bb3a3a006765
+Pocket Points,4.0,"Chico, California","Computer Games, Marketing & Advertising,",https://app.apollo.io/#/organizations/55f4503ff3e5bb1e75007ab9
+Cubic Inc. (now Medium Giant),5.0,"Tulsa, Oklahoma",Marketing & Advertising,https://app.apollo.io/#/organizations/55920a0373696418d26e3200
+Predictive UX,4.0,"Raleigh, North Carolina",Information Technology & Services,https://app.apollo.io/#/organizations/5a9e4973a6da98d966447cbe
+Computica Inc. dba Total Party Planner,9.0,"Jupiter, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/54a1399369702d24d3fd7000
+ALYKA Health,5.0,"Atlanta, Georgia","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/60aed3da78688500010c8ba8
+Breeze Church Management,9.0,"Hudsonville, Michigan",Information Technology & Services,https://app.apollo.io/#/organizations/5da47ea8a3b18d00018b302b
+VANITY PLANET BEAUTY,7.0,"Beverly Hills, California","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5c12fa2abfeab309753ec026
+Ideate Business Plans,9.0,"Highlands, North Carolina",Financial Services,https://app.apollo.io/#/organizations/63dd4c1f8bed8f00a36e7fdc
+Brainheart Growth Recruiting,2.0,"Madison, Wisconsin",Staffing & Recruiting,https://app.apollo.io/#/organizations/61efa4a091aca800a4fbc960
+Franchise Supplier Network,3.0,"Northbrook, Illinois",Management Consulting,https://app.apollo.io/#/organizations/60b20a304ba8080001f5ae93
+"Terydon, Inc.",4.0,"Durango, Colorado",Oil & Energy,https://app.apollo.io/#/organizations/55923b23736964186f05e500
+Softsys Hosting,8.0,"Denver, Colorado",Computer Networking,https://app.apollo.io/#/organizations/54a11eb969702d8cccea8d01
+Spectrum Nonprofit Services,5.0,"Milwaukee, Wisconsin",Nonprofit Organization Management,https://app.apollo.io/#/organizations/54a1a9fe7468695c8280c205
+Concert (Acquired by Varicent),9.0,"New York, New York",Computer Software,https://app.apollo.io/#/organizations/5b14144ca6da98dcd4bbeefd
+TrueShares ETFs,5.0,"Chicago, Illinois",Financial Services,https://app.apollo.io/#/organizations/5e567362e08ed00001b94015
+Christopher Charles Group LLC,2.0,"Chesapeake, Virginia",Management Consulting,https://app.apollo.io/#/organizations/5c1fbae4f651254260c30454
+Commprise,8.0,"Hartford, Connecticut","Information Technology & Services,",https://app.apollo.io/#/organizations/5e564d3fd640ab0001082d7f
+Greater Cleveland Career Consortium,7.0,"Cleveland, Ohio",Education Management,https://app.apollo.io/#/organizations/635160c7e4e4f600b41c7113
+KJB Sales Consulting LLC,4.0,"Dover, Delaware",Management Consulting,https://app.apollo.io/#/organizations/65ebf5aa7328b100072a0dc2
+BenchSights,3.0,"San Rafael, California",Information Technology & Services,https://app.apollo.io/#/organizations/61b9e055e1abd200da724bf8
+BizGift™,10.0,"Nolensville, Tennessee",Marketing & Advertising,https://app.apollo.io/#/organizations/60af07def1222800012f3a7f
+Substance Strategy & Creative,8.0,"Philadelphia, Pennsylvania",Marketing & Advertising,https://app.apollo.io/#/organizations/6125b7010b900300011458a1
+Nature's Root - a HEMP and CBD based manufacturer of organic cosmetics and wellness products!,9.0,"Longmont, Colorado","Wholesale, Retail",https://app.apollo.io/#/organizations/5bcdc4d75588474611e040dc
+Software Savvy Queen,1.0,"Las Vegas, Nevada",Consumer Services,https://app.apollo.io/#/organizations/6049c5f696ecd900013ef91f
+Miami-Dade Innovation Authority,10.0,"Miami, Florida",Nonprofit Organization Management,https://app.apollo.io/#/organizations/6473c23c7e96770001793910
+Corral Technologies,6.0,"Lincoln, Nebraska",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/60f797ba264f0200019e63ee
+Knudge,6.0,"Boston, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/5e5721db0ad8550001d8d6ed
+Alchemy Bikes,7.0,"Denver, Colorado",Sporting Goods,https://app.apollo.io/#/organizations/54a11d0c69702d8ed4a5e100
+LAX Freight Inc,4.0,"Gardena, California",,https://app.apollo.io/#/organizations/6566226f8d1a3900a234599d
+OnPath Testing,10.0,"Boulder, Colorado","Information Technology & Services,",https://app.apollo.io/#/organizations/55696d08736964251e302600
+Argyle,8.0,"Atlanta, Georgia",Design,https://app.apollo.io/#/organizations/5f42360125037d00015c7dd6
+Bryodyn Technologies LLC,10.0,"Ashburn, Virginia","Information Technology & Services,",https://app.apollo.io/#/organizations/5d344b1580f93e0e69525b6c
+Tolam Earth,10.0,"St. Louis, Missouri",Financial Services,https://app.apollo.io/#/organizations/6353c327f15cad00a385838a
+The Diner Music,9.0,"New York, New York",Music,https://app.apollo.io/#/organizations/556d9711736964124bef4f01
+Attaxion,6.0,"Dover, Delaware",Computer & Network Security,https://app.apollo.io/#/organizations/64b7913fb1c336000197e8bc
+FactoryQA,1.0,"Cedarburg, Wisconsin",Information Technology & Services,https://app.apollo.io/#/organizations/6294c31c362d6a00c0a8d343
+PowerDetails,7.0,"Orlando, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/54a11d7269702d84c5700501
+LeadG2,10.0,"Tampa, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/5569c77d73696425db918f00
+Aon Programs,6.0,"Fort Washington, Pennsylvania",Insurance,https://app.apollo.io/#/organizations/5ed2783c41fbcd000101efb0
+Cargologik,10.0,"Coral Gables, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/5ddbf2f4b6405d00d647bee7
+SCGWest,9.0,"Irvine, California","Real Estate, Commercial Real Estate",https://app.apollo.io/#/organizations/5b13b67ba6da98dcc674b569
+RAM SOLUTIONS,9.0,"San Jose, California",Information Technology & Services,https://app.apollo.io/#/organizations/60aeb0d2be99980001d5876e
+Boredroom Breakouts,7.0,"Minneapolis, Minnesota",Management Consulting,https://app.apollo.io/#/organizations/5da33b1ce3362e00018b55e5
+New EdTech Classroom,5.0,"Sacramento, California",Government Administration,https://app.apollo.io/#/organizations/60f6486e55ac900001de9643
+3D Advisors Inc.,8.0,"Shelby charter Township, Michigan","Insurance, Financial Services",https://app.apollo.io/#/organizations/5da3047dfac8740001993b86
+Craft & Root,6.0,"New York, New York","Graphic Design, Design",https://app.apollo.io/#/organizations/56e3cf62f3e5bb15f9002fca
+Terawatt Group Coaching,8.0,"Stamford, Connecticut","Professional Training & Coaching,",https://app.apollo.io/#/organizations/5df9fa60f7d9a900f078e88e
+Arya57,7.0,"Hackensack, New Jersey",Information Technology & Services,https://app.apollo.io/#/organizations/63e9f244f0d23300a338f9e1
+Hammerstone Markets Inc.,9.0,"Wilton, Connecticut",Financial Services,https://app.apollo.io/#/organizations/5e5605f6e58fab0001a00b76
+Mercutio (Now Overdose.),2.0,"Seattle, Washington","Information Technology & Services,",https://app.apollo.io/#/organizations/55eb9009f3e5bb237d000067
+"Ecessa, a product of OneNet Global",8.0,"Minnetonka, Minnesota",Information Technology & Services,https://app.apollo.io/#/organizations/5592255f736964199bcf9500
+Miami Fintech Club,6.0,"Miami, Florida",Financial Services,https://app.apollo.io/#/organizations/6537ee8864652000ba8b22da
+WhereBy.Us,8.0,"Claymont, Delaware",Online Media,https://app.apollo.io/#/organizations/5a9f4e07a6da98d977011076
+DSO DataCONNECT,5.0,"Philadelphia, Pennsylvania","Hospital & Health Care,",https://app.apollo.io/#/organizations/60c9f5e603d84b01146ac41d
+LightForce® Therapy Lasers,4.0,"New Castle, Delaware",Medical Devices,https://app.apollo.io/#/organizations/5e57bc7ba8de090001e72751
+Openfinance,4.0,"Chicago, Illinois",Financial Services,https://app.apollo.io/#/organizations/5d17255beed378093130182b
+Housman Institute,10.0,"Weston, Massachusetts","Professional Training & Coaching,",https://app.apollo.io/#/organizations/5b157a7da6da9870eceffbf5
+NutriRise,5.0,"Houston, Texas","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5a9f2caca6da98d99780ec05
+Studio/E,9.0,"Minneapolis, Minnesota",Professional Training & Coaching,https://app.apollo.io/#/organizations/5a9f60fea6da98d97e8305ed
+Executive Staff Recruiters / ESR Healthcare,2.0,"Columbus, Ohio",Hospital & Health Care,https://app.apollo.io/#/organizations/54a1a34674686949e742dc03
+11outof11,9.0,"Ardmore, Pennsylvania",Marketing & Advertising,https://app.apollo.io/#/organizations/5b13e402a6da98dcf762128b
+People Centric Consulting Group,7.0,"Springfield, Missouri",Management Consulting,https://app.apollo.io/#/organizations/5500cc8673696416c0c47400
+ReachStack | Client Education & Intelligence,6.0,"Delray Beach, Florida","Financial Services, Investment Management",https://app.apollo.io/#/organizations/5e55cf4371bea90001596970
+Kirby Consultants,3.0,"Miami, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/637501e66bfefc00d0a36a8d
+GrowUp Greenwalls,8.0,"San Marcos, California",Semiconductors,https://app.apollo.io/#/organizations/5e5672ca2e546f000103d42d
+First Access,8.0,"New York, New York",Financial Services,https://app.apollo.io/#/organizations/54a1206469702d8ed4123402
+Qwary,2.0,"Herndon, Virginia",Information Technology & Services,https://app.apollo.io/#/organizations/5f8dccb6f6d55500f6043926
+Electric Enjin,8.0,"Norwalk, Connecticut",Marketing & Advertising,https://app.apollo.io/#/organizations/55ec933af3e5bb597500060a
+SharpShell Digital Consulting,4.0,"Minneola, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/60b26893465fec0001e743c8
+"Talon Simulations, LLC",5.0,"Altamonte Springs, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/55f00ebff3e5bb0e5c003cd0
+Unlock Inc,10.0,"New York, New York","Information Technology & Services,",https://app.apollo.io/#/organizations/5e0f2376e1420800993d5c2d
+GOOD DOCS,10.0,"Los Angeles, California",Education Management,https://app.apollo.io/#/organizations/556d200d73696411b62f9700
+"CITIRI, INC.",8.0,"Atlanta, Georgia",Construction,https://app.apollo.io/#/organizations/5b83960b324d441bf2a922a2
+Montgomery Code,6.0,"Grand Rapids, Michigan",Marketing & Advertising,https://app.apollo.io/#/organizations/5e56cfa3a1a41a0001249399
+Industrial Marketing,9.0,"Nashua, New Hampshire",Marketing & Advertising,https://app.apollo.io/#/organizations/5da3a48d3b30030001985b68
+SmartWaste Inc,6.0,"San Jose, California",Environmental Services,https://app.apollo.io/#/organizations/5faa3faa8d023100986f4040
+Genie's Therapeutics,3.0,"Ojai, California",Consumer Goods,https://app.apollo.io/#/organizations/5e55f9492174ca00019b331f
+"Olbgis, Inc.",4.0,"Wilmington, Delaware",Information Technology & Services,https://app.apollo.io/#/organizations/63cdff7cd41f2800016b4b19
+Tsetserra Growth Partners,3.0,"Austin, Texas","Investment Management,",https://app.apollo.io/#/organizations/5e57deab0d084800015e748e
+Evolution Devices,9.0,"Oakland, California",Medical Devices,https://app.apollo.io/#/organizations/5b857be8324d4457b700d640
+Sedaru,4.0,"Monterey Park, California",Utilities,https://app.apollo.io/#/organizations/556950d573696425c4ac0200
+SimBull (Techstars ‘22),4.0,"Lewes, Delaware",Computer Games,https://app.apollo.io/#/organizations/613300df442a690001c95069
+Happiest Nanny,1.0,"Boston, Massachusetts",,https://app.apollo.io/#/organizations/603fd6feb4e3db008c639cb9
+Tier 3 Partners,2.0,"Westfield, Indiana",Information Technology & Services,https://app.apollo.io/#/organizations/609db050ea2417008ce3d6fd
+Viewfinity - A CyberArk Company,4.0,"Newton, Massachusetts","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1baf774686954752dcd0b
+Workforce Innovation Center at The Cincinnati USA Regional Chamber,5.0,"Cincinnati, Ohio",Management Consulting,https://app.apollo.io/#/organizations/6049950de3ad0500015cf6d8
+Digital Marketing Partners,6.0,"Northbrook, Illinois",Marketing & Advertising,https://app.apollo.io/#/organizations/5fc9e4727c15f60001247a41
+VyaPay,10.0,"Scottsdale, Arizona",Financial Services,https://app.apollo.io/#/organizations/5da50a2bc263a3000156892d
+ThinkTrends,10.0,"Herndon, Virginia",Information Technology & Services,https://app.apollo.io/#/organizations/5da415c6e9922c0001d896b3
+Jason Barry Team,6.0,"Rancho Santa Fe, California",Real Estate,https://app.apollo.io/#/organizations/5ed56d0c86d89200011639af
+VTech Hospitality,3.0,"Tigard, Oregon",Hospitality,https://app.apollo.io/#/organizations/618a5338dd543f0001a53c08
+Mindshare Collaborative,10.0,"Tampa, Florida",Management Consulting,https://app.apollo.io/#/organizations/5a9cd952a6da98d93bdc5c08
+Scatena Daniels Communications,9.0,"San Diego, California","Public Relations & Communications,",https://app.apollo.io/#/organizations/54a1351e69702d4255997100
+Make It Happen Mgmt,1.0,"New York, New York","Events Services, Entertainment",https://app.apollo.io/#/organizations/5b15bc85a6da9871276886d1
+"HURO AI, Inc.",7.0,"Austin, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/64c519a9b8f9130001936335
+Blue Rocky Logistics,1.0,"Canton, Massachusetts","Transportation/trucking/railroad,",https://app.apollo.io/#/organizations/638260396d6a970001fd70e0
+Creative Media Technology,10.0,"Edison, New Jersey",Marketing & Advertising,https://app.apollo.io/#/organizations/5e56bafc92918f00014b6c3a
+BI Hub,1.0,"Plano, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/5da501bbf02da6000178e9ff
+Climb Marketing,4.0,"Ann Arbor, Michigan",Marketing & Advertising,https://app.apollo.io/#/organizations/5b8457a1f874f705efd49b72
+Experiential Executive LLC,1.0,"Dartmouth, Massachusetts","Marketing & Advertising,",https://app.apollo.io/#/organizations/5a9f3dfba6da98d93be87fdd
+WillowAI,7.0,"Grand Junction, Colorado","Information Technology & Services,",https://app.apollo.io/#/organizations/5f490b3e213bd00001b6fc43
+OCTOdent,9.0,"Mountain Home, Arkansas",Medical Devices,https://app.apollo.io/#/organizations/6024ce817d45c101388ffbcd
+ONE18MEDIA,8.0,"Melville, New York",Marketing & Advertising,https://app.apollo.io/#/organizations/5a9dae0ca6da98d93be17b08
+Argos Education,4.0,"Lexington, Massachusetts",E-learning,https://app.apollo.io/#/organizations/60b4a3baf632c000d95751cd
+eCommodities Inc.,2.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/5ed2414742773d0001216865
+Denver Magazine,8.0,"Denver, Colorado",Publishing,https://app.apollo.io/#/organizations/54a12a8a69702dc12839e401
+SSI Alliance,1.0,"Beaverton, Oregon",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5a9e3007a6da98d97e7aeec1
+Upward Digital Marketing Group,6.0,"Westerville, Ohio",Marketing & Advertising,https://app.apollo.io/#/organizations/5da370781e516a00013256ee
+SOCFortress,10.0,"Austin, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/639338288484d000e1a3003f
+Therapeasy,3.0,"Denver, Colorado",Mental Health Care,https://app.apollo.io/#/organizations/5e57c7bdf017340001855b27
+SmartTab,2.0,"Denver, Colorado",Pharmaceuticals,https://app.apollo.io/#/organizations/5b12fea8a6da98dcdbc5e62c
+Glip,6.0,"Belmont, California",,https://app.apollo.io/#/organizations/66120ada9eae0500071c4699
+EBITDA Growth Systems,6.0,"Golden, Colorado",Management Consulting,https://app.apollo.io/#/organizations/5ed56025fe9ea30001e5685a
+Olympic Motivation,2.0,"Colorado Springs, Colorado",Professional Training & Coaching,https://app.apollo.io/#/organizations/57c4adb3a6da9867ded1e7b7
+"Hubitat, Inc.",7.0,"Scottsdale, Arizona","Consumer Services, Consumer Electronics",https://app.apollo.io/#/organizations/5b8725e2f874f74c821c3d9b
+NuBiz Solution,9.0,"Frederick, Maryland","Design, Computer Software",https://app.apollo.io/#/organizations/5c7e69631d16890bcf4f3b12
+CXninja,3.0,"Alpharetta, Georgia",Staffing & Recruiting,https://app.apollo.io/#/organizations/63d5b0f6c696c20001878891
+POWER UP Productions,3.0,"Mechanicsville, Virginia",Marketing & Advertising,https://app.apollo.io/#/organizations/5f40e430b303b700017e73a1
+NEXT,10.0,"Wichita, Kansas",Marketing & Advertising,https://app.apollo.io/#/organizations/54a1273b69702dcef9f40800
+InspectionXpert,3.0,"Raleigh, North Carolina","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1353869702d2f9fd9e700
+The Business Show US,5.0,"Miramar Beach, Florida",Events Services,https://app.apollo.io/#/organizations/63d79e99129c1e011c647fa3
+Third Nature,5.0,"Gage, Oklahoma",Professional Training & Coaching,https://app.apollo.io/#/organizations/57c4f2a6a6da9869ef36230d
+RE.STATEMENT | Upcycled Clothing Market,1.0,"New York, New York",Apparel & Fashion,https://app.apollo.io/#/organizations/5e55d19ff7754800014226be
+"360 Health Services, LLC",10.0,"Boca Raton, Florida",Wholesale,https://app.apollo.io/#/organizations/5f6ceb963a6bd000f6ec3f28
+ICR IOWA,2.0,"Cedar Rapids, Iowa",Civic & Social Organization,https://app.apollo.io/#/organizations/5da363821e516a0001321c43
+Supernova Design Inc.,4.0,"Culver City, California",Design,https://app.apollo.io/#/organizations/57c4ae11a6da98686a66cffc
+Payment Savvy,4.0,"Plano, Texas",Financial Services,https://app.apollo.io/#/organizations/54a1213d69702da10fe5bf02
+Meeting Machine,4.0,"New York, New York",Internet,https://app.apollo.io/#/organizations/55923fa87369640b180d8b00
+Sproutward,7.0,"Southborough, Massachusetts",Marketing & Advertising,https://app.apollo.io/#/organizations/5a9cee49a6da98d99a39d0e9
+"Pet Preferred Diagnostics, LLC",5.0,"Alpharetta, Georgia",Veterinary,https://app.apollo.io/#/organizations/5fc95e011662c1000163405d
+The Code Registry,7.0,"Lafayette Hill, Pennsylvania",Information Technology & Services,https://app.apollo.io/#/organizations/658272c8aa55550001694a10
+"ViewPoint Cloud, An OpenGov Company",3.0,"Boston, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/54a12b3b69702d9ebc2d5302
+CPEG Carrier Process Equipment Group,10.0,"Louisville, Kentucky",Machinery,https://app.apollo.io/#/organizations/5e5774709303fe0001d6b084
+iC3D Software,4.0,"Minneapolis, Minnesota",Information Technology & Services,https://app.apollo.io/#/organizations/55e871e4f3e5bb76d700047a
+Elevated.com,8.0,"Carlsbad, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5b838728324d4450d15e2471
+AnuPartha,6.0,"Cupertino, California",Staffing & Recruiting,https://app.apollo.io/#/organizations/54a1be3e74686942d33c270d
+Investor Summit Group,6.0,"New York, New York",Financial Services,https://app.apollo.io/#/organizations/57c4bca6a6da9836c208b492
+Nexkey,8.0,"Addison, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/5d0ab37080f93ead01f73451
+Orapin // Purpose-Driven PR,2.0,"Denver, Colorado","Public Relations & Communications,",https://app.apollo.io/#/organizations/54a1349069702d3e83c93700
+AugMentors,5.0,"Baltimore, Maryland",Management Consulting,https://app.apollo.io/#/organizations/612da0a793977d000189efda
+Distributed Media Lab,6.0,"Palo Alto, California",Information Technology & Services,https://app.apollo.io/#/organizations/5b8697dd324d440f12fc279a
+Global PMO Partners,9.0,"Franklin, Tennessee",Management Consulting,https://app.apollo.io/#/organizations/613414fb56c9b400014eebdd
+Oneighty.io,5.0,"Anacortes, Washington",Management Consulting,https://app.apollo.io/#/organizations/5a9eb6e9a6da98d932e506ba
+DiNovo,9.0,"Houston, Texas",Pharmaceuticals,https://app.apollo.io/#/organizations/56dae220f3e5bb2ed4000752
+Prime Numbers Technology,10.0,"Marlborough, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/54a11c4369702da75357a700
+Tempo Bioscience,5.0,"San Francisco, California","Research, Biotechnology",https://app.apollo.io/#/organizations/556cf0227369641266ce6400
+"Firepoint | An end-to-end solution RE Agents, Teams, & Brokers",10.0,"Denver, Colorado",Real Estate,https://app.apollo.io/#/organizations/5d09c0c080f93edb0e1298fb
+NP Advantage,3.0,"Novi, Michigan","Hospital & Health Care,",https://app.apollo.io/#/organizations/62a235a5c16f6500a3d23ec4
+"PathSensors, Inc.",7.0,"Baltimore, Maryland","Research, Biotechnology",https://app.apollo.io/#/organizations/54a11bea69702d918c3d6600
+Design Huddle,9.0,"Portland, Oregon",Information Technology & Services,https://app.apollo.io/#/organizations/5cde9971d5763b2151059568
+"Blab, Predictive Social Intelligence",8.0,"Seattle, Washington",Marketing & Advertising,https://app.apollo.io/#/organizations/54a122b469702d7fe64e2c03
+Sullivan on Comp,4.0,"El Segundo, California",Legal Services,https://app.apollo.io/#/organizations/55920c99736964192cc53a00
+Connect Space Inc.,7.0,"Ann Arbor, Michigan",Events Services,https://app.apollo.io/#/organizations/54a11fde69702d918ca71002
+Fetch Strategies,1.0,"Honolulu, Hawaii",Management Consulting,https://app.apollo.io/#/organizations/63cc9a79b9bd3200e339a059
+LAVNCH [CODE],5.0,"Chapel Hill, North Carolina",Information Technology & Services,https://app.apollo.io/#/organizations/60f3ec265977f800010fa086
+The Emerald Conference,1.0,"Coronado, California",Research,https://app.apollo.io/#/organizations/5da531d58d6bcf0001266aaa
+WhosOnLocation,6.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/54a21fc074686930c232a00e
+Oklahoma Venture Forum,5.0,"Oklahoma City, Oklahoma",Venture Capital & Private Equity,https://app.apollo.io/#/organizations/55fa5278f3e5bb7f7e0005e7
+Angel's Salumi & Truffles,7.0,"Carlsbad, California",Food Production,https://app.apollo.io/#/organizations/55695d4073696425987b1200
+Everyday Woman,2.0,"Las Vegas, Nevada",Professional Training & Coaching,https://app.apollo.io/#/organizations/5fbe66fee32ba000a5de9997
+SafetyPoster.com (Official),2.0,"Oroville, Washington",Human Resources,https://app.apollo.io/#/organizations/5b131af4a6da98dcfeff4b28
+Master B2B eCommerce,3.0,"Evanston, Illinois",Internet,https://app.apollo.io/#/organizations/6161dc086d329a0001b11a95
+"GreenChoice, pbc",7.0,"Somerville, Massachusetts","Information Technology & Services,",https://app.apollo.io/#/organizations/60afb606c373e90001711423
+VRAR Chicago,2.0,"Chicago, Illinois",Management Consulting,https://app.apollo.io/#/organizations/5e56ddbf2310c700015e3e9a
+PatternEx - acquired by Corelight,2.0,"San Jose, California","Information Technology & Services,",https://app.apollo.io/#/organizations/559233d473696418f612c800
+The Interchange Institute,7.0,"Boston, Massachusetts",Professional Training & Coaching,https://app.apollo.io/#/organizations/54a1a332746869586041e003
+Trackhawk GPS,1.0,"Houston, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/6611b0a7d0cbbc02e9d1b514
+Turbine,5.0,"Columbus, Georgia",,https://app.apollo.io/#/organizations/63b7351d7305d400f98c052f
+SendHub,6.0,"Pleasanton, California","Telecommunications, Information Technology & Services,",https://app.apollo.io/#/organizations/54a116fa69702d3ec03b3100
+Brainbase (YC W24),1.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/65aae34140a90201aedc7351
+T2D3,4.0,"Seattle, Washington",Education Management,https://app.apollo.io/#/organizations/60f5013333312b00016d010a
+EHS Compliance Services Inc.,5.0,"Austin, Texas",Management Consulting,https://app.apollo.io/#/organizations/54a1216b69702d94a41bae02
+EnergyBin,3.0,"Rochester, Minnesota",Semiconductors,https://app.apollo.io/#/organizations/5a9dffb0a6da98d9a8d7edc7
+Create A1,10.0,"Dallas, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/643cfde67f109900a3853daf
+TwoLine Studios,3.0,"Minneapolis, Minnesota",Management Consulting,https://app.apollo.io/#/organizations/5e55eb5799006b0001e7c61a
+Paidwell Compensation Management,6.0,"Cosby, Tennessee","Information Technology & Services,",https://app.apollo.io/#/organizations/5e5739723f150700016b8a35
+Greystone Sales Group,4.0,"Dallas, Texas",Real Estate,https://app.apollo.io/#/organizations/5d3424b280f93e680d0a309d
+align.Space,3.0,"West Chester, Pennsylvania",Hospitality,https://app.apollo.io/#/organizations/5b852ce7f874f71f610ae9a5
+Legal Tech Media Group,7.0,"Del Mar, California",Management Consulting,https://app.apollo.io/#/organizations/5cc34f22def1f80bdeabf382
+Lean Management Systems LLC,1.0,"Woodbury, Minnesota",Management Consulting,https://app.apollo.io/#/organizations/64043512b314450001ef6270
+TECHNIA North America,5.0,"Bellaire, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/60f2fa11f44c7800011a3434
+Score More Sales,3.0,"North Hampton, New Hampshire",Management Consulting,https://app.apollo.io/#/organizations/55920429736964199b961c00
+EES Consulting LLC,4.0,"Celina, Texas",Environmental Services,https://app.apollo.io/#/organizations/5e581b1805b1890001f51ea5
+Fairwords by MyComplianceOffice,9.0,"Longmont, Colorado","Information Technology & Services,",https://app.apollo.io/#/organizations/5a9ed8cca6da98d9356ec80b
+MediaSilo,2.0,"Boston, Massachusetts","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1229169702d8ed49b2903
+CivicaScript,6.0,"Lehi, Utah",Pharmaceuticals,https://app.apollo.io/#/organizations/61ec33dc2b95e300013a9c81
+Unio,7.0,"Washington, District of Columbia",Hospital & Health Care,https://app.apollo.io/#/organizations/612a40c4fc3a6e00010b40ca
+Capital Camp,8.0,"Columbia, Missouri",Events Services,https://app.apollo.io/#/organizations/5e56bf4522bd920001c28928
+Riff Analytics,5.0,"Newton, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/5e56a6594169b30001c5ca8e
+Kelly Consultants,7.0,"Royal Palm Beach, Florida",Staffing & Recruiting,https://app.apollo.io/#/organizations/5569ddd673696425b233a800
+The Congruity Group,10.0,"Dayton, Ohio",Management Consulting,https://app.apollo.io/#/organizations/5b1344c7a6da98dcf761bdcf
+Arizona Venture Development Corporation,9.0,"Phoenix, Arizona",,https://app.apollo.io/#/organizations/62eb4c8b024f6b00013835c4
+LanSchool,2.0,"Carmel, Indiana",Information Technology & Services,https://app.apollo.io/#/organizations/54a121cc69702d8cccaeeb02
+1000 Angels,4.0,"New York, New York",Financial Services,https://app.apollo.io/#/organizations/56e7eb38f3e5bb62f1001baf
+Cloudvisr,5.0,"Albany, New York",Information Technology & Services,https://app.apollo.io/#/organizations/639450c4ede21a00018e4e37
+Howbridge,2.0,"Boston, Massachusetts",Management Consulting,https://app.apollo.io/#/organizations/5e57e1734ab14d00019ccfb5
+Martechify,1.0,"Grapevine, Texas",Nonprofit Organization Management,https://app.apollo.io/#/organizations/6377a381c86d2c00a3156418
+Truto,6.0,"Beaverton, Oregon",,https://app.apollo.io/#/organizations/63aa8790bd273d00a3223e6c
+ivelah,9.0,"Chandler, Arizona",Security & Investigations,https://app.apollo.io/#/organizations/5b84a225f874f776e811101d
+NANCO,2.0,"Houston, Texas",Transportation/trucking/railroad,https://app.apollo.io/#/organizations/6332e50a3bc30100a36e37c9
+AMA Birmingham,4.0,"Birmingham, Alabama",Marketing & Advertising,https://app.apollo.io/#/organizations/5d0a2cc8a3ae61ca240e7313
+FaBB,2.0,"North Miami, Florida","Venture Capital & Private Equity,",https://app.apollo.io/#/organizations/5500b77873696460ceda0600
+Healthcare Data Matters,1.0,"Houston, Texas",Hospital & Health Care,https://app.apollo.io/#/organizations/604a9e4e602eaa0001c9f87e
+Loop,2.0,"West Hollywood, California",Information Technology & Services,https://app.apollo.io/#/organizations/5e42b01ff3d1a0008d87d054
+Heretik,4.0,"Chicago, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/5a9f6f23a6da98d99782cbc8
+Dockyard Capital Management,5.0,"Boston, Massachusetts",Investment Management,https://app.apollo.io/#/organizations/5e56381ee58fab00015849b3
+HotelChatter,4.0,"New York, New York",Online Media,https://app.apollo.io/#/organizations/6307e88c6d2c110001375e7d
+RocketML,10.0,"Beaverton, Oregon",Online Media,https://app.apollo.io/#/organizations/5a9f437ca6da98d97700c0a4
+Trendline,3.0,"Charlotte, North Carolina",Marketing & Advertising,https://app.apollo.io/#/organizations/5f4038d2536e0b008c1a68a1
+Remote Sensing Solutions Inc,3.0,"Bourne, Massachusetts",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/55ecfbb7f3e5bb16920023ae
+MaverickApp,9.0,"Bedford, New York",Management Consulting,https://app.apollo.io/#/organizations/5e1f59127ac2ca0101bed004
+Masset.ai,2.0,"Lehi, Utah",,https://app.apollo.io/#/organizations/63868dc7455a7300ceac5490
+"Melax Tech, now part of IMO",10.0,"Houston, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/6128b477636f0a00f6db4bc8
+Late Nite Art,10.0,"San Francisco, California","Professional Training & Coaching,",https://app.apollo.io/#/organizations/54fca5f973696401715f3400
+Genie Solar Energy,10.0,"Newark, New Jersey",Semiconductors,https://app.apollo.io/#/organizations/5a9e66f4a6da98d95ff99c63
+Virtus Flow,4.0,"Miami, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/5d9e50e51f785d00980923cc
+Entech Fabrications,10.0,"Elk Grove Village, Illinois",Machinery,https://app.apollo.io/#/organizations/55ea6343f3e5bb44a90058a4
+Tidey,4.0,"Orem, Utah",Environmental Services,https://app.apollo.io/#/organizations/6129a9f0dc35f30001fb9154
+VAZATA,10.0,"McKinney, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1179269702d4926190a00
+T-Minus Solutions,3.0,"Houston, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/6048eb599bf7a300012080fd
+The Phoenix Club of Nashville,4.0,"Nashville, Tennessee","Fund-raising, Philanthropy",https://app.apollo.io/#/organizations/56d821ccf3e5bb589a002bfb
+Signal Akron,10.0,"Akron, Ohio",Online Media,https://app.apollo.io/#/organizations/650ac4556ba1810001af3cac
+"Pureinfluencer, LLC",8.0,"Los Angeles, California",Marketing & Advertising,https://app.apollo.io/#/organizations/55693eae736964216d921900
+Navigate Food Safety Solutions,6.0,"Montague, California",Management Consulting,https://app.apollo.io/#/organizations/5d09b85df6512506994f9c14
+Insurance Town,1.0,"Little Rock, Arkansas",Insurance,https://app.apollo.io/#/organizations/60f11792330e940001a200ff
+KNC Strategic Services - Cybersecurity Services Provider & a Disabled Veteran-Owned Small Business,10.0,"Carlsbad, California","Information Technology & Services,",https://app.apollo.io/#/organizations/5b840e1c324d444a8bd4ad28
+FI Works,5.0,"Little Rock, Arkansas",Financial Services,https://app.apollo.io/#/organizations/5b862f8cf874f71549f1133d
+Gitar,10.0,"San Mateo, California",,https://app.apollo.io/#/organizations/65a5237b1e410c03007b330f
+PrismWork,7.0,"San Francisco, California",Management Consulting,https://app.apollo.io/#/organizations/54a126ee69702d9548234a00
+Source,6.0,"Chicago, Illinois",Marketing & Advertising,https://app.apollo.io/#/organizations/556d823a73696412613b2c01
+Vevano Home,6.0,"Salt Lake City, Utah",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/5e55d165f0e6c0000185753f
+Teton Simulation Software,4.0,"Laramie, Wyoming",Information Technology & Services,https://app.apollo.io/#/organizations/5b137a44a6da98dd138581fe
+Rockbridge Associates,9.0,"Great Falls, Virginia",Market Research,https://app.apollo.io/#/organizations/54a1281369702d8cfc741b01
+Firstday Healthcare,6.0,"West Palm Beach, Florida","Hospital & Health Care,",https://app.apollo.io/#/organizations/5569624f7369642598fc1800
+EIDR The Universal Media Identifier,5.0,"Santa Monica, California",Entertainment,https://app.apollo.io/#/organizations/5a9edf1ba6da98d966481703
+"Re-Vision Management Consulting, LLC",2.0,"The Woodlands, Texas",Management Consulting,https://app.apollo.io/#/organizations/5d950193dd81e700d4091dcc
+Rippe Keane Marketing,3.0,"Madison, Wisconsin",Marketing & Advertising,https://app.apollo.io/#/organizations/54a1293c69702d9ebc266101
+Theia Senior Solutions,2.0,"New York, New York",Individual & Family Services,https://app.apollo.io/#/organizations/57c4a359a6da982baa561ab2
+WayLit,5.0,"St. Louis, Missouri",Information Technology & Services,https://app.apollo.io/#/organizations/5fa024a74acee600cacb4522
+Kudu Creative,6.0,"Easton, Pennsylvania",Marketing & Advertising,https://app.apollo.io/#/organizations/556ceff6736964123de65700
+DreamItReel,5.0,"New York, New York","Media Production, Motion Pictures & Film",https://app.apollo.io/#/organizations/54a1221a69702d9a8b4f1603
+Avestix Group,9.0,"Jupiter, Florida",Financial Services,https://app.apollo.io/#/organizations/5a9e9194a6da98d95ffa9408
+Filo.co,3.0,"Lee's Summit, Missouri",Information Technology & Services,https://app.apollo.io/#/organizations/6641845c4ff887000112c660
+TalktoData AI,10.0,"Santa Clara, California",,https://app.apollo.io/#/organizations/64a609f8bd089200c3ce791d
+Filo.co,3.0,"Lee's Summit, Missouri",Information Technology & Services,https://app.apollo.io/#/organizations/5fdbc639f4a27800a4617c21
+Commence Studio,6.0,"Reno, Nevada",Marketing & Advertising,https://app.apollo.io/#/organizations/56e72ff5f3e5bb791a004f2a
+Veracity Industrial Networks,8.0,"Ann Arbor, Michigan",Computer & Network Security,https://app.apollo.io/#/organizations/56d4df6ef3e5bb06e800049b
+Brand&Culture,6.0,"Atlanta, Georgia",Online Media,https://app.apollo.io/#/organizations/5f4587b5839b540001c3d771
+ARPost,2.0,"New York, New York",Publishing,https://app.apollo.io/#/organizations/5e5769e288fb670001613c28
+Industrial Inspection & Analysis (formerly Q-PLUS Labs),6.0,"Irvine, California",Machinery,https://app.apollo.io/#/organizations/54a1b02f74686945fa681e08
+LoanScorecard,10.0,"Irvine, California",Information Technology & Services,https://app.apollo.io/#/organizations/556d3b9a7369641226bcbc00
+Kinems Inc.,9.0,"New York, New York","E-learning, Primary/secondary Education",https://app.apollo.io/#/organizations/54a1226669702d84c5d51203
+Great Bay Renewables,8.0,"Portsmouth, New Hampshire",Semiconductors,https://app.apollo.io/#/organizations/5b870e29324d4416617f5358
+Teamwork Solutions Group,7.0,"Lafayette, Louisiana",Marketing & Advertising,https://app.apollo.io/#/organizations/54a11bac69702da753126000
+Freight Mate,3.0,"Milton, Georgia",,https://app.apollo.io/#/organizations/647b35966712cf00f1faf540
+"Impact Point Group, A Freeman Company",5.0,"Denver, Colorado",Events Services,https://app.apollo.io/#/organizations/5a9e9812a6da98d97e7d707f
+"Oldner Lighting, LLC",7.0,"Dallas, Texas",Design,https://app.apollo.io/#/organizations/556d7d227369641276f11c01
+TimberHut,6.0,"Great Valley, New York",Construction,https://app.apollo.io/#/organizations/61173c2fbcdcde00012a23e6
+Contend Capital,9.0,"Tampa, Florida",Financial Services,https://app.apollo.io/#/organizations/5b8370a8f874f7737fa3a503
+Oxford Hounds Inc.,3.0,"Scottsdale, Arizona",Apparel & Fashion,https://app.apollo.io/#/organizations/609a9bea8d32f700a4981223
+Evolve Medical Education,9.0,"Wayne, Pennsylvania",E-learning,https://app.apollo.io/#/organizations/5da3f4b83a4e680001cb3798
+FASD United (formerly NOFAS),10.0,"Washington, District of Columbia",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5e56f414ebcd930001e2c867
+Hi-Tech Health,10.0,"Hackettstown, New Jersey","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1bc3174686949e7196e0c
+Asbury Newton,2.0,"Atlanta, Georgia",Legal Services,https://app.apollo.io/#/organizations/5d360071f651257da3f9eae2
+Madison Scientific Inc,10.0,"Chicago, Illinois",Medical Devices,https://app.apollo.io/#/organizations/648a72b93d80e900a3ec806c
+Culture of Convenience,1.0,"Elizabethtown, Pennsylvania",Media Production,https://app.apollo.io/#/organizations/63cd436706cd390001e74895
+Harness Fi,6.0,"New York, New York",Financial Services,https://app.apollo.io/#/organizations/62e9e978abedc200a367763c
+I Do Information Technology Services,3.0,"Portland, Oregon","Information Technology & Services,",https://app.apollo.io/#/organizations/5f4145040a9c6c00015765e4
+Data Science 4 Everyone,10.0,"Chicago, Illinois",Primary/secondary Education,https://app.apollo.io/#/organizations/636c7ae364aa9e00a355127b
+Grow,8.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/5d3f029a62563909c59bd44f
+Wildnote,5.0,"San Luis Obispo, California",Information Technology & Services,https://app.apollo.io/#/organizations/5d339d0af65125a0b83ed336
+Tronix3D,6.0,"Pittsburgh, Pennsylvania",Machinery,https://app.apollo.io/#/organizations/61eba495d84de10001380b00
+Handdy,8.0,"Wexford, Pennsylvania",Information Technology & Services,https://app.apollo.io/#/organizations/54a25ef974686933180a561d
+Kernel,7.0,"Menlo Park, California","Information Technology & Services,",https://app.apollo.io/#/organizations/55e8d8a1f3e5bb6acb0001d8
+ImmutableSoft,1.0,"Santa Cruz, California",Information Technology & Services,https://app.apollo.io/#/organizations/5e57c3655e3c2600014cbbf2
+Operatio Marketing,8.0,"Concord, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5be1bc43a58df91c125266d7
+Hera Fertility (Techstars '23),7.0,"New York, New York",Hospital & Health Care,https://app.apollo.io/#/organizations/62e4438cceacb2008b5f5c48
+SD Meetings & Events,7.0,"San Diego, California",Events Services,https://app.apollo.io/#/organizations/5da28b5a0c1cee0001522a7c
+PostBidShip,5.0,"Scottsdale, Arizona","Transportation/trucking/railroad,",https://app.apollo.io/#/organizations/54a1294469702d9548dc7b01
+HR Collaborative,3.0,"Cincinnati, Ohio",Human Resources,https://app.apollo.io/#/organizations/5da4d5b1d0673a00010b1e25
+Poppy Life Care,10.0,"Irvine, California","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5da3218f0dffba00012be06c
+Progressive Multiplier,7.0,"Washington, District of Columbia","Nonprofit Organization Management,",https://app.apollo.io/#/organizations/5efe0e14f5fc78008c623d59
+Obsidian Business Planning Solutions,7.0,"Rockville, Maryland",Financial Services,https://app.apollo.io/#/organizations/556deef773696410fc6b0d00
+Yoda Technologies,8.0,"Houston, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/61ec25dd8c3d6700012db2b5
+The Desmond Company,6.0,"Los Angeles, California",Management Consulting,https://app.apollo.io/#/organizations/5e5627869f42f4000136ccec
+Archstone Capital,9.0,"Chicago, Illinois",Real Estate,https://app.apollo.io/#/organizations/5e56c70a1501e50001ebbf5b
+SYIL Machine Tools Inc,9.0,"Houston, Texas",Machinery,https://app.apollo.io/#/organizations/5ed2ddcc5d6829000155d4dd
+Lockhern Digital,8.0,"New York, New York",Marketing & Advertising,https://app.apollo.io/#/organizations/5e57ebc79c01df000163502b
+Cascade Sciences,1.0,"Hillsboro, Oregon",Research,https://app.apollo.io/#/organizations/5b872bc0324d444b5c5cefe9
+Learn to Scale,1.0,"Boston, Massachusetts",Management Consulting,https://app.apollo.io/#/organizations/5e579e7305426d0001a1fdee
+ActionCOACH Southern Indiana,1.0,"New Albany, Indiana",Professional Training & Coaching,https://app.apollo.io/#/organizations/61ad73f4ed6bde0001d80934
+"Trident Shield, LLC",3.0,"Johnson City, Tennessee",Professional Training & Coaching,https://app.apollo.io/#/organizations/5ec5ed7342496800cefc0879
+Global Beauty Private Label Skincare,5.0,"Irvine, California","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5e57a0c5c3f55c00010d5379
+Sherloq,8.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/62cc24febbc28200a3800610
+Truckup,4.0,"Lee's Summit, Missouri",Transportation/trucking/railroad,https://app.apollo.io/#/organizations/6048d3e5a6166b0001d2aa05
+Tixologi,8.0,"Los Angeles, California",Internet,https://app.apollo.io/#/organizations/6156139f95ae8900a4383714
+Trademark 360°,2.0,"New York, New York",Legal Services,https://app.apollo.io/#/organizations/63d5996ab1a1af0001d61f00
+Problem Solver's Consultants L.L.C.,10.0,"Buckhannon, West Virginia",Marketing & Advertising,https://app.apollo.io/#/organizations/54fca24a736964013a440f00
+"Harmoni Solutions, Inc.",7.0,"Akron, Ohio",Industrial Automation,https://app.apollo.io/#/organizations/61ec9c7e72ea7f0001b90115
+LegacyArmour,1.0,"Minneapolis, Minnesota","Information Technology & Services,",https://app.apollo.io/#/organizations/5a9d7d33a6da98d94d8cb358
+THookz,2.0,"Los Angeles, California",Management Consulting,https://app.apollo.io/#/organizations/62e1fb5fda3a0800cb240d5b
+Cooljarz by Earthwise Packaging,8.0,"Tustin, California",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/5ee06c74f59a1c0001e6cebd
+Milesbrand,10.0,"Englewood, Colorado",Marketing & Advertising,https://app.apollo.io/#/organizations/57c491f0a6da98162d73abf5
+Liftoff Enterprises,2.0,"New York, New York","Broadcast Media, Marketing & Advertising",https://app.apollo.io/#/organizations/6388d89ae4f12700a355727f
+Transit Specialty Group,2.0,"Lakeland, Florida",,https://app.apollo.io/#/organizations/62a8e071b1387d00cacf191a
+Q Ideas,9.0,"Lewisburg, Tennessee",Civic & Social Organization,https://app.apollo.io/#/organizations/66163d238f220f0007e1ce04
+Universe Language Solutions,8.0,"Marietta, Georgia",Events Services,https://app.apollo.io/#/organizations/56d40578f3e5bb1dd300150f
+GovConPay,5.0,"Rockville, Maryland",Human Resources,https://app.apollo.io/#/organizations/5fc865214d51320001a1e17f
+ABC Packaging Direct,7.0,"Westlake, Ohio",Packaging & Containers,https://app.apollo.io/#/organizations/663ca9a47bd5b70001c8cee6
+CReed Global Media | CGM TV Network,4.0,"Houston, Texas","Media Production, Broadcast Media",https://app.apollo.io/#/organizations/5e584be92be266000126fb3c
+Lactation Lab,6.0,"Santa Monica, California",Retail,https://app.apollo.io/#/organizations/5e57c7277e83710001d0c247
+"Engage, Powered by ENA",1.0,"Schaumburg, Illinois",Hospital & Health Care,https://app.apollo.io/#/organizations/64c5197df9bc12000161f5e2
+Curate,7.0,"Madison, Wisconsin","Information Technology & Services,",https://app.apollo.io/#/organizations/5a9e3c56a6da98d9977abbaa
+NinjaInfluence,8.0,"Miami Beach, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/66121cf9f2fbd60007b0ae9f
+"GreenTrees, LLC",6.0,"The Plains, Virginia",Environmental Services,https://app.apollo.io/#/organizations/54a1391369702dac84ce1400
+NinjaInfluence,8.0,"Miami Beach, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/65c6861286841d0001f2b104
+EMQQ Global,7.0,"San Francisco, California",Financial Services,https://app.apollo.io/#/organizations/60f15398e9596600019584d7
+Cincinnati Incorporated - NVBOTS Business Unit,4.0,"Boston, Massachusetts","Machinery, Mechanical Or Industrial Engineering",https://app.apollo.io/#/organizations/5569bbc873696425c4648400
+Zubu,1.0,"California, US",Legal Services,https://app.apollo.io/#/organizations/648c747b3c885a008b83b163
+Mainstay Digital,3.0,"Plano, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/621709aea6e00f0001b60b76
+"DecisionTrek, LLC",4.0,"Naperville, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/61ed55cec7a5790001f115b0
+Accelerate Italy,7.0,"Boston, Massachusetts",Online Media,https://app.apollo.io/#/organizations/6128581d7871400001a7eefc
+Exec.,7.0,"New York, New York",Think Tanks,https://app.apollo.io/#/organizations/5ed34b82b7aa390001776f21
+"Wintellisys, Inc.",10.0,"Arlington, Tennessee",Information Technology & Services,https://app.apollo.io/#/organizations/5f3fdb95c025a7000128907d
+Dalton Bioanalytics,4.0,"Los Angeles, California","Research, Biotechnology",https://app.apollo.io/#/organizations/5e57e4afe983c80001633272
+ADA Practice Transitions,2.0,"Chicago, Illinois",Management Consulting,https://app.apollo.io/#/organizations/5fcae54a471a4d0001e6fdd8
+Peak Mind - Well-being technology,5.0,"Indianapolis, Indiana","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5c271174a3ae6175e8e71c00
+otto-js,10.0,"Franklin, Tennessee","Information Technology & Services,",https://app.apollo.io/#/organizations/5a9e9488a6da98d97016a719
+即时开启 - 能源即服务、微电网、燃料电池、弹性,9.0,"Santa Ana, California","Renewables & Environment,",https://app.apollo.io/#/organizations/5edfacbedc84640001ffbbff
+"DatStat, an R1 company",9.0,"Seattle, Washington","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1221e69702d9a8bd01903
+MenuLabs,5.0,"Scottsdale, Arizona",Hospitality,https://app.apollo.io/#/organizations/5fcb4ffabddd2b000197e62e
+Roman Group LLC,2.0,"Beverly Hills, California",Real Estate,https://app.apollo.io/#/organizations/559206de736964186a252700
+Tellescope,2.0,"Cambridge, New York","Information Technology & Services,",https://app.apollo.io/#/organizations/5e57dceec0fa300001845e6e
+WPRP Wholesale Pallet Rack Products,5.0,"Maple Grove, Minnesota","Transportation/trucking/railroad,",https://app.apollo.io/#/organizations/54a1347869702d46f0d01400
+Follow My Steps Foundation,8.0,"Springfield, Massachusetts","Nonprofit Organization Management,",https://app.apollo.io/#/organizations/5fc949b930198400013c7002
+BoardActive,5.0,"Atlanta, Georgia","Computer Software, Information Technology & Services",https://app.apollo.io/#/organizations/5d0a9ac5a3ae616b75e9e9d1
+Sean Cannell,2.0,"Las Vegas, Nevada",,https://app.apollo.io/#/organizations/5ed35852ce66050001481d4d
+Lucid Day,9.0,"Minneapolis, Minnesota",Information Technology & Services,https://app.apollo.io/#/organizations/61057d204e75650001615066
+Plan C Pills,9.0,"Washington, District of Columbia","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5b84102ff874f75fddd5c20a
+Kardz.Biz,6.0,"Claymont, Delaware",Marketing & Advertising,https://app.apollo.io/#/organizations/63a5c521ad748000cb78b444
+KNOSS Apparel,7.0,"Burlingame, California",Apparel & Fashion,https://app.apollo.io/#/organizations/60b0907d71803f000130fcc4
+BlueIQ,9.0,"Bountiful, Utah",Information Technology & Services,https://app.apollo.io/#/organizations/56d4a034f3e5bb3a54009015
+"GoVanguard is Now Gotham Security, An Abacus Group Company",1.0,"Princeton, New Jersey","Computer & Network Security,",https://app.apollo.io/#/organizations/556d3152736964127ebdae00
+Flying Pig Designs LLC,3.0,"Broomfield, Colorado",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/5e575a1df6d38f0001e9889e
+Upside Health,9.0,"New York, New York","Hospital & Health Care,",https://app.apollo.io/#/organizations/5d0cf75321729b09c657ac0d
+idea hub,5.0,"Boston, Massachusetts","Think Tanks, Research",https://app.apollo.io/#/organizations/6049ccda5db325000123dc78
+News360 (acquired),10.0,"San Mateo, California","Online Media, Internet",https://app.apollo.io/#/organizations/54a1222b69702d9a8b2f2603
+Shadow Digital,7.0,"Irvine, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5ed94e9e2ac27200be180e20
+Addicus Capital Advisors,5.0,"Birmingham, Alabama",Investment Banking,https://app.apollo.io/#/organizations/62ff6a3b354e440001b22f44
+Regrow,5.0,"Carlsbad, California",Information Technology & Services,https://app.apollo.io/#/organizations/5e58324505426d0001463ddf
+EnMass Energy,3.0,"Durham, North Carolina",Renewables & Environment,https://app.apollo.io/#/organizations/5a9cd85ca6da98d97e72359e
+The Heffelfinger Company,5.0,"Redondo Beach, California",Management Consulting,https://app.apollo.io/#/organizations/55f937d3f3e5bb641b000bc3
+Total CollectR Virtual Collector & Debt Negotiator,9.0,"Dover, Delaware","Information Technology & Services,",https://app.apollo.io/#/organizations/61c36488e1f5c500a41fb810
+Fidlock USA,5.0,"Pineville, North Carolina",Retail,https://app.apollo.io/#/organizations/650ac5ca16134900012d42b1
+Apogee Agency,6.0,"Cantonment, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/5a9f6f03a6da98d99782cae1
+Champion,9.0,United States,,https://app.apollo.io/#/organizations/6491cad42f27c200da0ec1ae
+"APEX, Area Partnership for Economic Expansion",8.0,"Duluth, Minnesota",Research,https://app.apollo.io/#/organizations/5e5670818284a800013e23a1
+Lithium Battery Power,5.0,"Clearwater, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/65e339d88f84b2043ba9db27
+Urban Team - SVN Chicago Commercial,1.0,"Chicago, Illinois",Real Estate,https://app.apollo.io/#/organizations/64bc14da9b872900012c2f45
+CEO School,7.0,"Orlando, Florida",Professional Training & Coaching,https://app.apollo.io/#/organizations/6161585a1d3e150001a09638
+TruPar.com®,5.0,"Aspen, Colorado",Wholesale,https://app.apollo.io/#/organizations/54a1366d69702d46f08e2101
+People First Economy,7.0,"Grand Rapids, Michigan",Civic & Social Organization,https://app.apollo.io/#/organizations/66088de7019a01000704aa2c
+LogistixAI,8.0,"Alpharetta, Georgia",Information Technology & Services,https://app.apollo.io/#/organizations/636281d24edfe100cc4595e2
+Liiv Center,4.0,"New York, New York",Nonprofit Organization Management,https://app.apollo.io/#/organizations/61eb9c1210968d0001254e47
+Graham Estate Planning - The Law Office of Stephanie P. Graham,2.0,"Atlanta, Georgia",Law Practice,https://app.apollo.io/#/organizations/615ae0b3d31a1200a477ec8f
+Loos Seismic Bracing,1.0,"Naples, Florida",Architecture & Planning,https://app.apollo.io/#/organizations/5f48e220816d270001b1fab8
+Thrive Insurance,9.0,"Oklahoma City, Oklahoma",Insurance,https://app.apollo.io/#/organizations/54a11f7e69702d918c47d901
+Social Boston Sports - acquired by Volo Sports,10.0,"Boston, Massachusetts","Sports, Events Services",https://app.apollo.io/#/organizations/54a11f2f69702d9d7efac001
+Ehsaan Technologies,8.0,"Austin, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/63ccab88a1e114000174b9f4
+National Talent Finder,8.0,"Bellevue, Washington",Staffing & Recruiting,https://app.apollo.io/#/organizations/556d227273696411ec529e00
+USGreentech,5.0,"Cincinnati, Ohio",Building Materials,https://app.apollo.io/#/organizations/5592325f73696418d24ac400
+Concentric Power Inc.,7.0,"Salinas, California",Semiconductors,https://app.apollo.io/#/organizations/5a9ee162a6da98d9977ec839
+Acumen Strategist LLC,1.0,"Riverview, Florida",Human Resources,https://app.apollo.io/#/organizations/60b1c3a67ce1730001c78bd4
+Dockshare,6.0,"Towson, Maryland",Maritime,https://app.apollo.io/#/organizations/5f49b0bd6707f500014843d6
+Greenbrier Valley Economic Development Corporation,3.0,"Maxwelton, West Virginia",Government Administration,https://app.apollo.io/#/organizations/61936c8137d27b00da610a9d
+American Academy for Certified Financial Litigators - AACFL,4.0,"New York, New York",Legal Services,https://app.apollo.io/#/organizations/5d372a6aa3ae61c1308e8fce
+U.S. Women's National Team Players Association,6.0,"Chicago, Illinois",Sports,https://app.apollo.io/#/organizations/5c1eccf4a3ae6156e8a6fc0b
+ZipDeal,6.0,"Columbus, Ohio",Automotive,https://app.apollo.io/#/organizations/5fa39254cd676a008dfeaab0
+Clever Energy,2.0,"Orlando, Florida",Construction,https://app.apollo.io/#/organizations/5da35e05a61728000172e1c2
+AJG | Fashion Consulting,10.0,"Austin, Texas",Apparel & Fashion,https://app.apollo.io/#/organizations/5b14ee01a6da987135fab225
+Harrison Homes ATL,7.0,"Atlanta, Georgia",Construction,https://app.apollo.io/#/organizations/5ed0856d739a1300014279ca
+Prosper,7.0,"Redwood City, California",Information Technology & Services,https://app.apollo.io/#/organizations/62395a28800bcf00a53efad3
+Integrated Image,5.0,"Montgomeryville, Pennsylvania","Design, Printing",https://app.apollo.io/#/organizations/5500bdc47369641791122d00
+Freedom Fighting Missionaries,4.0,"Charlotte, North Carolina",Nonprofit Organization Management,https://app.apollo.io/#/organizations/661e14537997fd00070082cd
+"DeKalb County Economic Development Partnership, Inc. (Indiana, USA)",6.0,"Auburn, Indiana",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5a9cfa5ea6da98d9a1561302
+Skylight Psychedelics,9.0,"Tenafly, New Jersey",Mental Health Care,https://app.apollo.io/#/organizations/63559c21c1c70000e2aefae2
+Elite Automation,7.0,"Irvine, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5fc997d285d0000001fe546d
+Talkmap,9.0,"Dallas, Texas","Information Technology & Services,",https://app.apollo.io/#/organizations/5b15e9a4a6da98693aa8cba6
+Cypre Inc.,8.0,"South San Francisco, California",Biotechnology,https://app.apollo.io/#/organizations/5b1348dda6da98dcfe0024ca
+SCM Globe,3.0,"Chicago, Illinois",,https://app.apollo.io/#/organizations/54a12a1269702d9313080102
+HistoTox Labs “An Inotiv Company”,6.0,"Boulder, Colorado",Pharmaceuticals,https://app.apollo.io/#/organizations/55f45cbff3e5bb1e66008305
+Second Degree Society,4.0,"Denver, Colorado",Internet,https://app.apollo.io/#/organizations/56d58576f3e5bb2c9a000046
+Emerge,8.0,"Royal Oak, Michigan",Management Consulting,https://app.apollo.io/#/organizations/5a9eca8ca6da98d9356e5f7e
+Appsembler,4.0,"Las Vegas, Nevada","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1293969702d8b197cfc01
+Member for a Day,7.0,"Austin, Texas",Nonprofit Organization Management,https://app.apollo.io/#/organizations/604a62a857637f000186e33d
+Kubefirst,7.0,"Kensington, Maryland",Information Technology & Services,https://app.apollo.io/#/organizations/61270627a60a58000144ee0a
+Biz Klinics,10.0,"Sheridan, Wyoming",Marketing & Advertising,https://app.apollo.io/#/organizations/615bc63feab3570001d787ca
+Local Locker,9.0,"New York, New York",Real Estate,https://app.apollo.io/#/organizations/5dc591b3d74bdb00e039eb39
+GLXY Software Solutions,3.0,"Medina, Ohio",Information Technology & Services,https://app.apollo.io/#/organizations/5ed1fe6a446ebb0001eed63d
+EliteBrains,9.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/556ceb6673696412586b4f00
+Hello Habanero,3.0,"Kennewick, Washington",Marketing & Advertising,https://app.apollo.io/#/organizations/646c83897a3a6100011e701d
+Ultimate Partner,4.0,"Jupiter, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/5a9e2eb1a6da98d9356a84fc
+"Quest 2 Excel, Inc.",6.0,"Cupertino, California","Information Technology & Services,",https://app.apollo.io/#/organizations/556d921d7369641261094501
+San Diego Gives,1.0,"San Diego, California",Fund-raising,https://app.apollo.io/#/organizations/61450fa13ec9d400f6c81536
+Magpi,10.0,"Washington, District of Columbia",Information Technology & Services,https://app.apollo.io/#/organizations/55e172c2f3e5bb16c70026f7
+HealthLX,5.0,"Grafton, Wisconsin",Information Technology & Services,https://app.apollo.io/#/organizations/55f73d32f3e5bb16ca000496
+DataFinch Technologies,6.0,"Atlanta, Georgia",Information Technology & Services,https://app.apollo.io/#/organizations/54a13b8b69702de5b3929301
+Pressto,7.0,"New York, New York","E-learning, Education Management",https://app.apollo.io/#/organizations/601d122ba9f381008c4f5694
+Congenius,5.0,"Scottsdale, Arizona",Management Consulting,https://app.apollo.io/#/organizations/5b84b462f874f77731a2b1f1
+CPA Credits,4.0,"Dover, Delaware",Accounting,https://app.apollo.io/#/organizations/60af5746b6ad9b0001df8299
+Parclane,2.0,"Las Vegas, Nevada",Hospitality,https://app.apollo.io/#/organizations/61611aa933c8b20001b9f7ae
+Catalyst UX | An Unosquare Comapny,4.0,"San Mateo, California","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1caeb7468695c82b51211
+The Asheville View,8.0,"Asheville, North Carolina",Entertainment,https://app.apollo.io/#/organizations/5e5671edeff1740001292750
+Parks Alliance of Louisville,9.0,"Louisville, Kentucky",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5b849c42324d444c065cf706
+"Axim Solutions, Inc.",6.0,"Richmond, Virginia",Information Technology & Services,https://app.apollo.io/#/organizations/5a9de83ba6da98d935687f97
+PointGuard,6.0,"Charlotte, North Carolina",Facilities Services,https://app.apollo.io/#/organizations/5cb3bf8a80f93ed31eb9536a
+LEASERA,8.0,"Bellevue, Washington",Real Estate,https://app.apollo.io/#/organizations/5b13d42fa6da98dcae5b5b1b
+Vettery,1.0,"New York, New York",Online Media,https://app.apollo.io/#/organizations/62accbbc593855008b558d50
+Atlanta Gold and Coin Buyers,4.0,"Johns Creek, Georgia",Luxury Goods & Jewelry,https://app.apollo.io/#/organizations/556dd11e736964121fdba901
+Macronet Services,8.0,"North Hampton, New Hampshire",Information Technology & Services,https://app.apollo.io/#/organizations/5f458f75320b3b000172c43a
+Spectacular at Work,4.0,"Chicago, Illinois",Management Consulting,https://app.apollo.io/#/organizations/5d2f7be1139a010965aef476
+"Vinci Holdings, LLC",7.0,"Dallas, Texas","Capital Markets, Financial Services",https://app.apollo.io/#/organizations/5f497b4d24fa140001655bc7
+"iStreet Solutions, LLC",7.0,"Roseville, California",Information Technology & Services,https://app.apollo.io/#/organizations/54a117ab69702d5010ef0300
+Rob Nicholls Consulting,1.0,"Pennsylvania, US",Management Consulting,https://app.apollo.io/#/organizations/61ed573fbce92300011c35ed
+Experience Engineering,8.0,"Eden Prairie, Minnesota",Management Consulting,https://app.apollo.io/#/organizations/54a134d069702d44949f4600
+"ManageForce, a Centrilogic Company",8.0,"Oak Brook, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/54a25e717468692e7122e31d
+HIVEMINDED Marketing,5.0,"Springfield, Missouri",Marketing & Advertising,https://app.apollo.io/#/organizations/6049e66be837200001fcfea4
+Gordy Health,8.0,"Pasadena, California",Hospital & Health Care,https://app.apollo.io/#/organizations/61e6db7266e18400f6b0e84c
+Clio Circle,2.0,"Miami, Florida",Primary/secondary Education,https://app.apollo.io/#/organizations/646e225ebaff9300d0156d54
+UrbanSource Countertops,2.0,"Raleigh, North Carolina",Construction,https://app.apollo.io/#/organizations/5ed906f2a0852900010e7c3b
+Vicinity,10.0,"Greenville, South Carolina",Financial Services,https://app.apollo.io/#/organizations/5ee0eb3bcd83a4000141c0e1
+Más Vale Saber,9.0,"Phoenix, Arizona",Marketing & Advertising,https://app.apollo.io/#/organizations/5a9d256ca6da98d94d8a8c10
+BFD Systems,5.0,"Pennsauken Township, New Jersey",Aviation & Aerospace,https://app.apollo.io/#/organizations/612d9ff5e8ef6b0001193e45
+"ORCA HR Solutions, LLC",7.0,"Sammamish, Washington",Human Resources,https://app.apollo.io/#/organizations/5a9e2d91a6da98d977f94878
+"Joint Task Force - 214, LLC",2.0,"Washington, District of Columbia","Information Technology & Services,",https://app.apollo.io/#/organizations/61443c45502cc000016c7544
+Charge Me,4.0,"Costa Mesa, California",Semiconductors,https://app.apollo.io/#/organizations/61ec0760c1396d0001d63050
+"AndPlus, an Ensono Company",10.0,"Southborough, Massachusetts","Information Technology & Services,",https://app.apollo.io/#/organizations/54a11af969702d84c5270a00
+Heartbeat,5.0,"Chicago, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/60356e440f7f5100a406ac2b
+VeteranLife,10.0,"Nashville, Tennessee",Online Media,https://app.apollo.io/#/organizations/6125b551fff62a00010c32d3
+INS Engineering,3.0,"Austin, Texas",,https://app.apollo.io/#/organizations/64c929d15784e200e6ff8592
+Curb (Home Energy Management),7.0,"Austin, Texas",Renewables & Environment,https://app.apollo.io/#/organizations/54a122ce69702da425295503
+Eden Water Technologies,7.0,"Las Vegas, Nevada",Consumer Services,https://app.apollo.io/#/organizations/5e566b972174ca00015636b6
+"Momentum Accounting, Inc.",7.0,"San Francisco, California",Accounting,https://app.apollo.io/#/organizations/5e57330c3f150700016b6486
+Vitalis Consulting LLC,5.0,"Morristown, New Jersey",Staffing & Recruiting,https://app.apollo.io/#/organizations/5a9e6ea9a6da98d97015d16c
+NuCalm,10.0,"Wilmington, Delaware",Medical Devices,https://app.apollo.io/#/organizations/54a135db69702d3cbbc4fa00
+Ideawake,5.0,"Milwaukee, Wisconsin","Information Technology & Services,",https://app.apollo.io/#/organizations/5d099738a3ae610f2cebceeb
+Ryan Estis and Associates,3.0,"Minneapolis, Minnesota",Professional Training & Coaching,https://app.apollo.io/#/organizations/5d3271c6f65125c048f97d0d
+CashParts,5.0,"San Francisco, California",Wholesale,https://app.apollo.io/#/organizations/5da6d1f553c065000198de70
+9-Figure Media®,7.0,"Laguna Beach, California",Public Relations & Communications,https://app.apollo.io/#/organizations/61eb95f93fb8bf000170166a
+Boulder City Beverage,1.0,"Boulder City, Nevada",Food & Beverages,https://app.apollo.io/#/organizations/62eb4d2d6841be00018d5cd8
+VR Playhouse,5.0,"Los Angeles, California","Media Production, Motion Pictures & Film",https://app.apollo.io/#/organizations/5a9ed28ca6da98d9977e5d27
+Utrains,6.0,"Missouri City, Texas",E-learning,https://app.apollo.io/#/organizations/65ac64269f785c00013167d4
+Funky Mello,4.0,"Austin, Texas",Food & Beverages,https://app.apollo.io/#/organizations/6001c6b36d7a8a008ce55363
+The National Invest Program,4.0,"Alexandria, Virginia",Insurance,https://app.apollo.io/#/organizations/54a13c4b69702db45dddbe01
+ReplyBuy,5.0,"Scottsdale, Arizona","Information Technology & Services,",https://app.apollo.io/#/organizations/5d32b6f780f93ee33baf8157
+Simply Drones,10.0,"Roseville, Minnesota",Semiconductors,https://app.apollo.io/#/organizations/5f447aaa99ac2f000129afef
+PEAK IDV,5.0,"San Diego, California",Information Technology & Services,https://app.apollo.io/#/organizations/62eb4d799649fd00013b19de
+The Skills,7.0,"Manhattan Beach, California",E-learning,https://app.apollo.io/#/organizations/5edfa51cc1f2cf000161b768
+Albaloo,3.0,"Quincy, Massachusetts",Marketing & Advertising,https://app.apollo.io/#/organizations/5ee91cd69254a1008c416aa9
+BaseRock Partners,10.0,"Denver, Colorado",Investment Banking,https://app.apollo.io/#/organizations/6075d8cc4c545700e2aa283e
+Gravitate AI,7.0,"Norwood, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/5ec2bddb7a9bee00fb63ec23
+Adam,1.0,"Delaware, US",Real Estate,https://app.apollo.io/#/organizations/63d5b591c696c200018792af
+"SoaringEd, Inc.",4.0,"Princeton, New Jersey",E-learning,https://app.apollo.io/#/organizations/61ec17a823415900017fc784
+InspectMind AI (YC W24),7.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/65a2ba66747e3304541bb048
+Q-rounds,6.0,"Minneapolis, Minnesota",Information Technology & Services,https://app.apollo.io/#/organizations/62bb02b60e516c00a3ed0aac
+Qrious Insight,8.0,"Palm Coast, Florida",Market Research,https://app.apollo.io/#/organizations/62e96ca24c237300a4b80386
+Livvie,9.0,"Miami, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/6473ccb2c8ef57000109d73c
+IVO Systems - Construction Operations Software,8.0,"Madison, Wisconsin",Information Technology & Services,https://app.apollo.io/#/organizations/5db41f39593a740001271705
+Lend Academy,1.0,"Denver, Colorado",Investment Management,https://app.apollo.io/#/organizations/556db3e373696412719e6501
+MatchSquare Marketplace,3.0,"Royal Oak, Michigan",Wholesale,https://app.apollo.io/#/organizations/5e56f0f05b59df00018998fe
+"Building Drops, Inc.",9.0,"Miami, Florida",Building Materials,https://app.apollo.io/#/organizations/54a243017468693318198e1a
+Radical,10.0,"Greenville, South Carolina",Marketing & Advertising,https://app.apollo.io/#/organizations/5d362bfbf65125a005ab7265
+Alliance for Building Better Medicine,2.0,"Richmond, Virginia",Pharmaceuticals,https://app.apollo.io/#/organizations/6363b0c21b302900a3c26ec4
+Monumental CLS,6.0,"Washington, District of Columbia","Hospitality, Leisure, Travel & Tourism",https://app.apollo.io/#/organizations/5d358596f651259ed943ac93
+n6 Tec,9.0,"Pleasanton, California",Research,https://app.apollo.io/#/organizations/65dc7a279e4aca01c6118738
+"SinglePoint Solutions, a Bluewave Company",6.0,"Louisville, Kentucky",Telecommunications,https://app.apollo.io/#/organizations/5a9ee9e1a6da98d977fe230e
+Arrival Home Loans,9.0,"Novato, California",Financial Services,https://app.apollo.io/#/organizations/6330d81e76d17200cc8d9436
+"Chase Group Construction, LLC",5.0,"Lafayette, Louisiana",Construction,https://app.apollo.io/#/organizations/5f43f2fae48aba0001b7fb96
+"Battery Backup Power, Inc.",2.0,"Rancho Santa Margarita, California",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/556d2cc8736964120f0cae00
+Inside Recruiter: Resume Writing Services,9.0,"Los Angeles, California",Writing & Editing,https://app.apollo.io/#/organizations/64fb908cb87e5f0001289309
+RocketSauce Media Labs,5.0,"Plano, Texas",Marketing & Advertising,https://app.apollo.io/#/organizations/5f05e793c84b70008c573051
+Prelert,1.0,"Framingham, Massachusetts","Information Technology & Services,",https://app.apollo.io/#/organizations/5b13e86fa6da98dcd4bb1f4e
+Heep,8.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/5fa91be61501c00158670931
+AI Strategy Corporation,5.0,"Babylon, New York",Information Technology & Services,https://app.apollo.io/#/organizations/60b276e88f02240001b31622
+Offset Collective,2.0,"Raleigh, North Carolina",Marketing & Advertising,https://app.apollo.io/#/organizations/5fa452eb07a45101127f8fd9
+Medical Scribe Academy,3.0,"Phoenix, Arizona",Hospital & Health Care,https://app.apollo.io/#/organizations/637a9dac9d60ee0001394c3f
+Paperstac,6.0,"Orlando, Florida",Real Estate,https://app.apollo.io/#/organizations/57c4c962a6da9836e2808d82
+Nudge.pro,2.0,"Bethesda, Maryland",Information Technology & Services,https://app.apollo.io/#/organizations/621704ad7a46e70001fa6700
+Higher Growth Search,6.0,"San Jose, California","Staffing & Recruiting, Human Resources",https://app.apollo.io/#/organizations/5e2b8250aba1ca00e29440b6
+Vigilante.us,8.0,"Lorena, Texas",Defense & Space,https://app.apollo.io/#/organizations/5e55d8e5e90db10001977cc1
+Airedale by Modine - Indoor Air Quality,11.0,"Racine, Wisconsin",Machinery,https://app.apollo.io/#/organizations/63c592ac62f75f00a3d56b14
+4 Horsemen Solutions®,5.0,"Saint Johns, Florida","Information Technology & Services,",https://app.apollo.io/#/organizations/5f40e788ce6f950001f443a0
+Value Investor's Edge,2.0,"Las Vegas, Nevada",Financial Services,https://app.apollo.io/#/organizations/5edbc20fec556f000176c645
+Landau Public Relations - A Division of The Adcom Group,7.0,"Cleveland, Ohio","Public Relations & Communications,",https://app.apollo.io/#/organizations/55922ccc73696418d2ffaf00
+DEA WORKY North America Inc,3.0,"Charlotte, North Carolina",Business Supplies & Equipment,https://app.apollo.io/#/organizations/61ec76c6cc1532000154c0ce
+DGP Capital,9.0,"Houston, Texas","Investment Banking, Financial Services",https://app.apollo.io/#/organizations/5a9ce6b1a6da98d932e02613
+Lean Rocket Lab,8.0,"Jackson, Michigan",Professional Training & Coaching,https://app.apollo.io/#/organizations/5da12ac5b28838000148933c
+Datakwip,9.0,"Frederick, Maryland",Information Technology & Services,https://app.apollo.io/#/organizations/56ddebb9f3e5bb2f54000a85
+Four Star Accessory & Overhaul Inc.,10.0,"Tumwater, Washington",Airlines/aviation,https://app.apollo.io/#/organizations/6415efbdf5d5650001ca3819
+Pixel Perfect HTML,4.0,"Manassas, Virginia","Information Technology & Services,",https://app.apollo.io/#/organizations/55920ff57369641927c14600
+Grit & Gravel,9.0,"Lebanon, Tennessee",Marketing & Advertising,https://app.apollo.io/#/organizations/61ad451338136b0001d3be8c
+Wrenly AI,7.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/614c2b3a1e436300da23ca39
+Student Playbook,3.0,"Bethesda, Maryland",Higher Education,https://app.apollo.io/#/organizations/5f3ecfea1750e2000196d41d
+American Stalls,6.0,"Fairfax, Virginia",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/55f50153f3e5bb6ee6000158
+"EcoloxTech, inc",6.0,"West Palm Beach, Florida",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/56e343ecf3e5bb15bc000346
+Milk Video,6.0,"New York, New York",Online Media,https://app.apollo.io/#/organizations/5fabda3c31565d00f6257a9f
+CloudCruise (YC W24),4.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/65726471e6748d01961f6d71
+Career Day,4.0,"Los Angeles, California",E-learning,https://app.apollo.io/#/organizations/60b29e5e07ddf20001d0b667
+Xeven.AI,1.0,"Sheridan, Wyoming",Information Technology & Services,https://app.apollo.io/#/organizations/6482240f94c5d700d9ec769b
+Ferla Bikes Inc.,6.0,"Azusa, California",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/5db0e35d4102750098910504
+Growth Tools,10.0,"Nashville, Tennessee",Marketing & Advertising,https://app.apollo.io/#/organizations/5f64e0416b97c6008c2f7a9e
+Intellify Talent Solutions,10.0,"Boca Raton, Florida",,https://app.apollo.io/#/organizations/64462a5c8d35a200a3d7c2b6
+OMV America LLC,6.0,"Houston, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/55ea58ddf3e5bb59480047bf
+Tactic Lab®,5.0,"Austin, Texas",Marketing & Advertising,https://app.apollo.io/#/organizations/5c253053a3ae6174d84cdc58
+Sourcewell Technology,7.0,"Saint Paul, Minnesota",Information Technology & Services,https://app.apollo.io/#/organizations/5d7f8caf2c997800cbf07120
+Next Generation Trust Company/Next Generation Services,10.0,"Roseland, New Jersey","Financial Services, Investment Management",https://app.apollo.io/#/organizations/54a13c0869702d04869dcf01
+StockPulse,9.0,"Coeur d'Alene, Idaho",Media Production,https://app.apollo.io/#/organizations/5b808afaf874f766f5347e61
+"Svit Solutions, Inc",9.0,"Norcross, Georgia",Outsourcing/offshoring,https://app.apollo.io/#/organizations/642591f0c3e7fb00da9393f4
+Highway 29 Creative,2.0,"Minneapolis, Minnesota",Marketing & Advertising,https://app.apollo.io/#/organizations/5da3a89b04829100014f9c65
+ADR OnDemand,9.0,"Atlanta, Georgia",Alternative Dispute Resolution,https://app.apollo.io/#/organizations/5fc8b54c0fa99300015ff70e
+Cozy,5.0,"San Diego, California","Design, Graphic Design",https://app.apollo.io/#/organizations/5d3532d6f65125f310f6dbe1
+CoolTool by RIWI. Conscious + Nonconscious Insights,7.0,"San Francisco, California",Market Research,https://app.apollo.io/#/organizations/5d0a88cdf6512554bd5ed17d
+"Business Intelligence Technologies, Inc.",4.0,"Doylestown, Pennsylvania",Information Technology & Services,https://app.apollo.io/#/organizations/5c52f9a4e68ef30bee1e2940
+Tobe,10.0,"El Segundo, California",Marketing & Advertising,https://app.apollo.io/#/organizations/5b836cb7f874f748a5e31f93
+Goodegg Investments,9.0,"San Francisco, California","Real Estate, Commercial Real Estate",https://app.apollo.io/#/organizations/5b87041b324d4451210d08ed
+Prospr,7.0,"PECK SLIP, New York","Information Technology & Services,",https://app.apollo.io/#/organizations/5ddd43cb979bbd00d4f57e2f
+CommercialEdge,4.0,"Santa Barbara, California","Information Technology & Services,",https://app.apollo.io/#/organizations/602d8be734681f00e2ac3718
+Commercial Index Bureau Inc.,9.0,"Halethorpe, Maryland",Security & Investigations,https://app.apollo.io/#/organizations/54a13c3269702d2fa627d601
+Elevate Technology User Group,2.0,"Nashville, Tennessee",,https://app.apollo.io/#/organizations/6641bebce8e6a400018b4cc7
+Neurology Solutions Movement Disorders Center,9.0,"Austin, Texas","Medical Practice, Hospital & Health Care",https://app.apollo.io/#/organizations/55f10942f3e5bb50ab0008d4
+Military Veteran Dad,1.0,"Milton, Wisconsin",Military,https://app.apollo.io/#/organizations/6655a2cc3b37f500018ee74f
+Plain Sight,2.0,"Atlanta, Georgia",Events Services,https://app.apollo.io/#/organizations/5e431a7e59454d01471158c8
+St. Mary's County Department of Economic Development,4.0,"Leonardtown, Maryland",Government Administration,https://app.apollo.io/#/organizations/5b853acef874f746f4bbda81
+ALO.ai,9.0,"Saint Cloud, Minnesota","Information Technology & Services,",https://app.apollo.io/#/organizations/5a9f3624a6da98d932e89d46
+Scriptify.AI,2.0,"Dover, Delaware",Information Technology & Services,https://app.apollo.io/#/organizations/63e5e1754afb9300a3d088c2
+Global Biorisk Advisory Council,7.0,"Rosemont, Illinois",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5da29dd12c81690001c3718d
+Paintru,5.0,"Mentor, Ohio",Writing & Editing,https://app.apollo.io/#/organizations/5eb69205c0a78f008c50ba20
+Scenario Learning,8.0,"Cincinnati, Ohio",E-learning,https://app.apollo.io/#/organizations/54a1bbc774686945fa6a270c
+Constellation Real Estate Group,3.0,"Bellevue, Washington","Information Technology & Services,",https://app.apollo.io/#/organizations/5f4b4789af6d3a0001eafcf7
+Matrescence Occupational Therapy,2.0,"Austin, Texas",Medical Practice,https://app.apollo.io/#/organizations/65585c840571270001a190bc
+Common Good Water,5.0,"Fresno, California",Environmental Services,https://app.apollo.io/#/organizations/614efbaa7ed4f500012cf95f
+Techeters,2.0,"Bellevue, Washington",Marketing & Advertising,https://app.apollo.io/#/organizations/616224d32d5cd1000137d42b
+"Shepherd, Customer Growth Consulting",9.0,"Austin, Texas",Management Consulting,https://app.apollo.io/#/organizations/5b14dca4a6da9870efd60c1d
+Open Circle and Open Circle Foundation,7.0,"Brookings, Oregon",Professional Training & Coaching,https://app.apollo.io/#/organizations/5f46ce2d9247e80001986ad9
+Gold Medal Waters,10.0,"Boulder, Colorado","Financial Services, Investment Management,",https://app.apollo.io/#/organizations/54a1b6c974686942d30a6b0a
+Look Walls & Interiors,10.0,"Dallas, Texas",Design,https://app.apollo.io/#/organizations/5e579b5dfeb36f00019eafe7
+Skim AI Technologies,6.0,"New York, New York","Management Consulting,",https://app.apollo.io/#/organizations/5da334e90221a10001e0acf2
+Fitness Mentors,3.0,"San Clemente, California",Education Management,https://app.apollo.io/#/organizations/5569b7ef73696425319d8100
+XR Terra,4.0,"Boston, Massachusetts",E-learning,https://app.apollo.io/#/organizations/5da673f2e033600001114803
+Raising Stakes Media,10.0,"Boca Raton, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/6317e0ad5b3196008b7ca0da
+MyLocalTelehealth,1.0,"New York, New York","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5f4da673fc69d10001d1c86d
+Adventures Croatia,5.0,"La Quinta, California","Leisure, Travel & Tourism",https://app.apollo.io/#/organizations/55f1fc95f3e5bb0b6100089e
+TrueCloud now Eide Bailly,8.0,"Tempe, Arizona","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1281f69702d954827e800
+The Everset,8.0,"New York, New York",Furniture,https://app.apollo.io/#/organizations/5dfce5e44f9fb600e0973632
+Workman Forensics,4.0,"Tulsa, Oklahoma",Accounting,https://app.apollo.io/#/organizations/5d32ae4f80f93e2f67e176bb
+"FXV Digital Design, Inc.",9.0,"Wyomissing, Pennsylvania",Marketing & Advertising,https://app.apollo.io/#/organizations/556df6a573696410d9701800
+"Morton Solar, LLC",10.0,"Evansville, Indiana","Renewables & Environment,",https://app.apollo.io/#/organizations/54a25e107468693318f7041d
+Ambient Clinical Analytics,9.0,"Rochester, Minnesota",Information Technology & Services,https://app.apollo.io/#/organizations/55696a8d73696425a3ca2400
+Women's March Global,6.0,"New York, New York",Civic & Social Organization,https://app.apollo.io/#/organizations/5e448be0443a0000f0751634
+Behave Health,7.0,"San Francisco, California",Information Technology & Services,https://app.apollo.io/#/organizations/5b8448e4324d442073a34465
+"Ristich, LLC",10.0,"Los Angeles, California",Design,https://app.apollo.io/#/organizations/5b152839a6da98710b6232f1
+Deal Box,9.0,"Carlsbad, California","Financial Services, Capital Markets",https://app.apollo.io/#/organizations/5f4231a743b1990001a8818e
+Lambos Digital,2.0,"Charlotte, North Carolina",Marketing & Advertising,https://app.apollo.io/#/organizations/5e5688b251043e0001655dfa
+DeStefano Maugel Architects,7.0,"Portsmouth, New Hampshire",Architecture & Planning,https://app.apollo.io/#/organizations/54a19f0f7468694012cd9702
+SimpleTix,8.0,"New York, New York","Information Technology & Services,",https://app.apollo.io/#/organizations/5b147b65a6da9871276569ac
+SourcePanel,1.0,"Portland, Oregon",Human Resources,https://app.apollo.io/#/organizations/54a11fbe69702d84c5c8ec01
+420 CPA,9.0,"Beverly Hills, California",Accounting,https://app.apollo.io/#/organizations/5f499cf1fa632f0001c22dbb
+EmergeCPG,6.0,"Arlington, Virginia",Management Consulting,https://app.apollo.io/#/organizations/5e5657111dcc380001d02e08
+Moxy Monitor,7.0,"Hutchinson, Minnesota","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/56e621faf3e5bb6b7a00a84f
+Kitsap Economic Development Alliance,10.0,"Silverdale, Washington",Nonprofit Organization Management,https://app.apollo.io/#/organizations/54a1a5377468694f8fa46a04
+Ecom Diversify,3.0,"Asbury Park, New Jersey","Consumer Services, Retail",https://app.apollo.io/#/organizations/5fca9c0fb1b343000173e2d1
+5AM Solutions,8.0,"Bethesda, Maryland","Information Technology & Services,",https://app.apollo.io/#/organizations/54a1bbde74686945fa0d300c
+BrightDime,7.0,"Charlotte, North Carolina","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5b15d3cda6da9870fa40c214
+Vector Media Group,5.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/54a12b3d69702dcef9c98c02
+Scrypt AI,6.0,"Cambridge, Massachusetts",Financial Services,https://app.apollo.io/#/organizations/5f9843168eb67a00ca8abbeb
+Warriors' Ascent,9.0,"Kansas City, Missouri","Mental Health Care, Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5da4045039885b000129ea18
+Axiom Group,2.0,United States,Information Technology & Services,https://app.apollo.io/#/organizations/54a1346f69702d2f9f587400
+Dijy,5.0,"Saddle River, New Jersey",Marketing & Advertising,https://app.apollo.io/#/organizations/5c2f99400802480965a76a43
+AXAIL MEDIA LLC,2.0,"Boulder, Colorado",Marketing & Advertising,https://app.apollo.io/#/organizations/61ec7e01a3f3f900012c0c4f
+ewiz commerce,3.0,"Columbia, Maryland",Information Technology & Services,https://app.apollo.io/#/organizations/665b9a22bda6340001bce6e4
+Notch,2.0,"Ottawa, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/60748555b16e3500a4ee1837
+Tuscaloosa County Economic Development Authority,3.0,"Tuscaloosa, Alabama",Government Relations,https://app.apollo.io/#/organizations/5569d80473696425ee3ca800
+"Incentax, LLC",5.0,"Pasadena, California",Accounting,https://app.apollo.io/#/organizations/5f461761b2729d00013418bd
+Quiller,9.0,"Chicago, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/64af2af7c9952800f1abdcbf
+Alpha Creations Inc DBA BrianGavinDiamonds.com,3.0,"Houston, Texas",Luxury Goods & Jewelry,https://app.apollo.io/#/organizations/54a23a147468693825bacd17
+Padilla Law PLLC,9.0,"San Antonio, Texas",Law Practice,https://app.apollo.io/#/organizations/5ed55e8b4d4c6d000167643b
+RockZone Americas,3.0,"Bellefonte, Pennsylvania",Machinery,https://app.apollo.io/#/organizations/63594e565a54e6008b18e773
+Idea Morph,4.0,"Middletown, Delaware",Information Technology & Services,https://app.apollo.io/#/organizations/6394581f7905ee0001925bf1
+"PAC International, LLC.",8.0,"Canby, Oregon",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/62eb4cffe2e81700019a2df1
+Penguin AI,3.0,"New York, New York",,https://app.apollo.io/#/organizations/630a6f099073e600a3d8c5a4
+Basis Climate,5.0,"New York, New York",Environmental Services,https://app.apollo.io/#/organizations/63ce84603473b000f9903292
+Orr Commercial Inc.,9.0,"Houston, Texas",Real Estate,https://app.apollo.io/#/organizations/60497a0ceb47df000162b012
+VideoPeel,8.0,"Lehi, Utah",Information Technology & Services,https://app.apollo.io/#/organizations/5cb52123f65125817d6ce238
+ClientUp,6.0,"Wilmington, Delaware",,https://app.apollo.io/#/organizations/5fcad621471a4d0001e6c37d
+Positive Foundry,2.0,"Columbus, Ohio",Professional Training & Coaching,https://app.apollo.io/#/organizations/5b13a4f0a6da98dca5aa6543
+"Quantalytix, Inc.",4.0,"Birmingham, Alabama",Information Technology & Services,https://app.apollo.io/#/organizations/5a9f233aa6da98d977ffcc1e
+X-Hab 3D,8.0,"State College, Pennsylvania","Construction, Design",https://app.apollo.io/#/organizations/64580600cd936100014b41a4
+Intelligent Ag Solutions™,7.0,"Fargo, North Dakota",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/5b13f6ada6da98dcbf6cce67
+Veloxy,8.0,"Pleasanton, California","Information Technology & Services,",https://app.apollo.io/#/organizations/55696fce7369642539832c00
+Unified Data Platform (UDP),6.0,"West Menlo Park, California","Information Technology & Services,",https://app.apollo.io/#/organizations/64739c80372247000190d28b
+AV Planners,8.0,"Los Angeles, California","Information Technology & Services,",https://app.apollo.io/#/organizations/5f427d8293179a0001faa320
+UFUND,2.0,"Wilmington, Delaware",Financial Services,https://app.apollo.io/#/organizations/61ec4b8c0263190001fbcbe5
+Caregiven,8.0,"Johnston, Iowa",Information Technology & Services,https://app.apollo.io/#/organizations/5b86f672324d443a84f805f7
+SBA Loan Group,9.0,"Stamford, Connecticut",Financial Services,https://app.apollo.io/#/organizations/56d9f044f3e5bb0b330003c2
+The ALKU Foundation,2.0,"Andover, Massachusetts",Nonprofit Organization Management,https://app.apollo.io/#/organizations/6469b4c29fa96c000140e15c
+"Rebit, a BETSOL Company for Data Protection",6.0,"Broomfield, Colorado",Information Technology & Services,https://app.apollo.io/#/organizations/54a126b069702d8b19a57800
+Worksite International Inc,3.0,"Pacific Grove, California",Management Consulting,https://app.apollo.io/#/organizations/55f7698ef3e5bb172f001f62
+PS Principles,4.0,"Chicago, Illinois",Professional Training & Coaching,https://app.apollo.io/#/organizations/5d3671f8a3ae617588088b3d
+Discover Live,10.0,"New York, New York",Entertainment,https://app.apollo.io/#/organizations/5b835039f874f71d359d7e8c
+Soundboard,8.0,"Cambridge, Massachusetts",Professional Training & Coaching,https://app.apollo.io/#/organizations/6454d54691e2e20001e93d48
+Enthuse Creative,4.0,"Vienna, Virginia",Graphic Design,https://app.apollo.io/#/organizations/5e584ce88c960f00015fb457
+Marketing Nice Guys,3.0,"Fairfax, Virginia",Marketing & Advertising,https://app.apollo.io/#/organizations/5fca3bd35d32350001423c9d
+CSP Control Center,3.0,"Redmond, Washington",Information Technology & Services,https://app.apollo.io/#/organizations/5da518ba5bff920001899f5a
+Triple Session,9.0,"Boston, Massachusetts",E-learning,https://app.apollo.io/#/organizations/61497df934677e00015f066d
+Viper Partners,8.0,"North Palm Beach, Florida","Investment Banking, Financial Services",https://app.apollo.io/#/organizations/5ed80225308c7f000122b4ac
+OpenContext,4.0,"Hillsboro, Oregon",Information Technology & Services,https://app.apollo.io/#/organizations/61ad8478a90b040001af5078
+Kamion,9.0,"Park Ridge, Illinois",Information Technology & Services,https://app.apollo.io/#/organizations/5a9d7e6ea6da98d9356584a2
+CONTINUUM,10.0,"New York, New York","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/65e0bd1d18ae6a01c6458236
+Author Writer's Academy,4.0,"Van Buren, Arkansas",Publishing,https://app.apollo.io/#/organizations/65b5b16db1da910001f7008c
+Anomalix,7.0,"Las Vegas, Nevada",Computer & Network Security,https://app.apollo.io/#/organizations/55f81a10f3e5bb3de40009e3
+Carbon Title,8.0,"Lake Oswego, Oregon",Information Technology & Services,https://app.apollo.io/#/organizations/627a58a02bee7600d858c1e2
+RAIN Pure Mountain Spring Water,5.0,"Tiger, Georgia",Food & Beverages,https://app.apollo.io/#/organizations/5ed359c9df69ac0001ff6e7d
+Senior Living Match.com,2.0,"Houston, Texas",Information Technology & Services,https://app.apollo.io/#/organizations/64ba65ab4a6e2c0001487132
+Entrepreneur's Organisation (EO) Ireland,9.0,"Alexandria, Virginia",Nonprofit Organization Management,https://app.apollo.io/#/organizations/5f43e92bca4bed000131ba6a
+EarthSafe Chemical Alternatives,9.0,"Braintree, Massachusetts",Wholesale,https://app.apollo.io/#/organizations/5f44d1e49806760001896b9f
+Agency Soft,5.0,"Hollywood, Florida","Information Technology & Services,",https://app.apollo.io/#/organizations/5d3550e5a3ae613272610fc6
+The Modern Connection,1.0,"Charleston, South Carolina",Marketing & Advertising,https://app.apollo.io/#/organizations/55920be373696418f6503800
+DigitalRadius,10.0,"Boston, Massachusetts",Information Technology & Services,https://app.apollo.io/#/organizations/60f2eee7c66ce90001f3c605
+"Mezu, Inc.",2.0,"Cleveland, Ohio",Financial Services,https://app.apollo.io/#/organizations/5b86ef94324d4446cceb4c0d
+Investables,4.0,"Wilmington, Delaware",Internet,https://app.apollo.io/#/organizations/6260e3565d519800a55859e0
+Mobius Materials,8.0,"Richmond, Virginia",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/5f287a6211615b00be067038
+Cyber Command - Business IT and DevOps Services,7.0,"Winter Springs, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/55f0b188f3e5bb1677000914
+Keyword.com,6.0,"Las Vegas, Nevada",Online Media,https://app.apollo.io/#/organizations/5fbfbf3893b5a0008cc06432
+Vendorzs,10.0,"Dallas, Texas",Events Services,https://app.apollo.io/#/organizations/604930922e09d50001b15d63
+Social Enterprise - Minneapolis St Paul,3.0,"Saint Paul, Minnesota",Civic & Social Organization,https://app.apollo.io/#/organizations/54a1284669702d8cfc703501
+Pawlytics,4.0,"Lincoln, Nebraska","Information Technology & Services,",https://app.apollo.io/#/organizations/5d03dba9bace4608f05a9c31
+Deliveron Consulting Services,3.0,"Omaha, Nebraska",Information Technology & Services,https://app.apollo.io/#/organizations/55922d0e73696447df3d0d00
+Temp Connect,2.0,"Denver, Colorado",Staffing & Recruiting,https://app.apollo.io/#/organizations/61235e981276f100da182367
+Props Project,8.0,"New York, New York","Internet, Information Technology & Services",https://app.apollo.io/#/organizations/5fca855747537a0001b280c9
+Ola Digital Health,4.0,"New Port Richey, Florida","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/640726a765850c00f0bc19fd
+H&H Leadership Solutions,5.0,"Wilmington, Delaware","Hospital & Health Care,",https://app.apollo.io/#/organizations/65d4c4544b86aa03006b70c0
+Wired2Perform®,5.0,"Jacksonville, Florida","Human Resources, Staffing & Recruiting",https://app.apollo.io/#/organizations/5da40d1dd7e66f0001858b41
+Sora ID,6.0,"New York, New York",Information Technology & Services,https://app.apollo.io/#/organizations/6000f15c289bdf008c774197
+Construction Today,9.0,"Boynton Beach, Florida",Media Production,https://app.apollo.io/#/organizations/61934bd0c9fdd800014f2d8a
+Enlivened Tech,7.0,"Cincinnati, Ohio",Information Technology & Services,https://app.apollo.io/#/organizations/627a3b96e435f100daf1779a
+Vetri Labs,4.0,"Fremont, California",Semiconductors,https://app.apollo.io/#/organizations/5e5811a1c3f55c00015942ab
+Combustion Marketing,8.0,"Chelmsford, Massachusetts",Marketing & Advertising,https://app.apollo.io/#/organizations/5fcb555845cfab00011c93a4
+Insight Pharma,8.0,"Feasterville-Trevose, Pennsylvania",Pharmaceuticals,https://app.apollo.io/#/organizations/54a1a82074686940125c4605
+TruAsset LLC,2.0,"Shady Shores, Texas",Hospital & Health Care,https://app.apollo.io/#/organizations/612a4236e91005000166e114
+Intuitive Biosciences,10.0,"Madison, Wisconsin","Research, Biotechnology",https://app.apollo.io/#/organizations/54a11efb69702d8ccc98b501
+The E-Commerce Content Creation Podcast,1.0,"Riverside, California",Internet,https://app.apollo.io/#/organizations/64196ed5eb8a3e0001bcbce6
+"FITT Finder, Inc.",6.0,"Austin, Texas","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/55699bd173696425b2e26500
+Mod Tech Labs,6.0,"Buffalo, New York","Information Technology & Services,",https://app.apollo.io/#/organizations/5e6f8d55d3b97a00de565327
+"HighSide, Inc.",9.0,"Columbia, Maryland","Information Technology & Services,",https://app.apollo.io/#/organizations/57c4f26ca6da986a07d20c36
+Fratzke Consulting,3.0,"Fullerton, California",Management Consulting,https://app.apollo.io/#/organizations/5e440086a4f37c00e1cf1780
+"SolarFlair Energy, Inc",10.0,"Medway, Massachusetts","Renewables & Environment,",https://app.apollo.io/#/organizations/54a13bf369702d2851dbd101
+Pillsy,3.0,"Seattle, Washington",Consumer Electronics,https://app.apollo.io/#/organizations/56d400e1f3e5bb3a570026a4
+"Neurofeedback Training Co. | NeurOptimal Home Rentals, Sales & Sessions",3.0,"New York, New York","Health, Wellness & Fitness,",https://app.apollo.io/#/organizations/57c4eee1a6da9869fb3f5474
+RevitGods Inc,6.0,"Bala Cynwyd, Pennsylvania",Architecture & Planning,https://app.apollo.io/#/organizations/5da317e8256a9500011934a6
+Shooster Holdings,7.0,"Margate, Florida","Venture Capital & Private Equity,",https://app.apollo.io/#/organizations/632ca1eff0817d00e14083a1
+Secure Now!,8.0,"Morristown, New Jersey",Information Services,https://app.apollo.io/#/organizations/56e62493f3e5bb6b7a00aea9
+Curiosity Marketing Group,10.0,"Panama City, Florida",Marketing & Advertising,https://app.apollo.io/#/organizations/5500b6aa736964172cca0000
+EMX,5.0,"San Francisco, California","Information Technology & Services,",https://app.apollo.io/#/organizations/5a9dc621a6da98d932e244c6
+Atlanta Convention Center at AmericasMart,4.0,"Atlanta, Georgia",Events Services,https://app.apollo.io/#/organizations/556d4957736964121f97da00
+Indago Technologies,8.0,"Tampa, Florida",Information Technology & Services,https://app.apollo.io/#/organizations/64c74bf5ce5ed900a37e484c
+Mbition,9.0,"Brookfield, Wisconsin",E-learning,https://app.apollo.io/#/organizations/5e5816a13f9e640001a4eae6
+Lucid Solar,4.0,"City of Industry, California",Semiconductors,https://app.apollo.io/#/organizations/61aeb70af1577700c2952dcc
+CRMBase,2.0,"San Francisco, California",E-learning,https://app.apollo.io/#/organizations/5ed2d1a63a9cbf00017753c9
+isLucid,8.0,"South Jordan, Utah",Information Technology & Services,https://app.apollo.io/#/organizations/5fb7a2d7897a8b0098edf3e2
+GiveInternet.org,8.0,"Fort Lee, New Jersey","Philanthropy, Fund-raising,",https://app.apollo.io/#/organizations/5a9f09cea6da98d9a8db7044
+"Exaptive, Inc.",8.0,"Oklahoma City, Oklahoma","Information Technology & Services,",https://app.apollo.io/#/organizations/54a12ad569702d8eeb399902
+Tempello AI,5.0,"Encinitas, California",Information Technology & Services,https://app.apollo.io/#/organizations/650417dfc11ad200a3708eab
+Microverse Studios Scientific Animation,8.0,"Ponte Vedra Beach, Florida",Animation,https://app.apollo.io/#/organizations/5e55d460c1df750001681165
+Kitson Yachts,10.0,"Miami Beach, Florida","Leisure, Travel & Tourism",https://app.apollo.io/#/organizations/614f027930be740001c2bf44
+"FluxData, Inc",6.0,"Rochester, New York",Electrical/electronic Manufacturing,https://app.apollo.io/#/organizations/54a1b8e674686958603e470b
+The Arboreal Company,5.0,"Hayward, California",Environmental Services,https://app.apollo.io/#/organizations/62cc2b60a792e900b3a97c91
+Medical Billing Course.com,2.0,"Johnson City, Tennessee",E-learning,https://app.apollo.io/#/organizations/654b62617dfe7a0001b95897
+Extendify,9.0,"Chagrin Falls, Ohio",Information Technology & Services,https://app.apollo.io/#/organizations/5e57815e10cdf70001ea998e
+Sync Logistics Training,2.0,"Chicago, Illinois",Professional Training & Coaching,https://app.apollo.io/#/organizations/63d59b6b9ee39200010adee7
+Blue Chip CRO,2.0,"Columbus, Ohio",Management Consulting,https://app.apollo.io/#/organizations/60258fca6fd09e00fe2abfc6
+"MS Pen Technologies, Inc.",3.0,"Houston, Texas",Medical Devices,https://app.apollo.io/#/organizations/5f48d72d8965fb0001611838
+"DemandStar Corporation, a Euna Solutions Brand",5.0,"Seattle, Washington",Government Administration,https://app.apollo.io/#/organizations/5b87537af874f74bdab9d699
+"Lifestyle Evolution, Inc.",3.0,"Denver, Colorado","Health, Wellness & Fitness",https://app.apollo.io/#/organizations/5e57e2966c13940001e1ce2c
+The Food Loft,7.0,"Boston, Massachusetts",Food & Beverages,https://app.apollo.io/#/organizations/6547ee8a0ff5d1000103e72f
+D'Amelio Network,11.0,"Stamford, Connecticut",Events Services,https://app.apollo.io/#/organizations/56df1ebaf3e5bb70760067c8
+Brownie's Third Lung,3.0,"Pompano Beach, Florida",Mechanical Or Industrial Engineering,https://app.apollo.io/#/organizations/61331e8bc6be930001ed9957
+Codes and Cogs,7.0,"Lanham, Maryland",,https://app.apollo.io/#/organizations/631eb14576b39200ccb2fcb9
+Composite Apps,8.0,"Irvine, California","Information Technology & Services,",https://app.apollo.io/#/organizations/60be53f165b09700f5bd1989
+Oprable Inc,3.0,"Lewes, Delaware",Hospital & Health Care,https://app.apollo.io/#/organizations/611d0ab5e0533400daf33199
+Allied Executives,10.0,"Woodbury, Minnesota",Management Consulting,https://app.apollo.io/#/organizations/54a1acc77468695475eec006
+RealVoice,10.0,"Memphis, Tennessee","Hospitality, Leisure, Travel & Tourism",https://app.apollo.io/#/organizations/5569826373696425a9554700
+"Evalto, Inc. - RSA Archer Software Addons",2.0,"Urbandale, Iowa",Information Technology & Services,https://app.apollo.io/#/organizations/5db43b190e8a050001a14e0c
+Forticon,9.0,"Oakland, California",Construction,https://app.apollo.io/#/organizations/5da44caf988bdd0001ae7cda
+GetGlobal,5.0,"Los Angeles, California","International Affairs, International Trade & Development",https://app.apollo.io/#/organizations/5a9cdc8aa6da98d932dff715
+Sageness,4.0,"Orlando, Florida",Legal Services,https://app.apollo.io/#/organizations/5f4a560d0749010001654097
